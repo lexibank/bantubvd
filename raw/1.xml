@@ -1,0 +1,6071 @@
+<record>
+	<id>00001</id>
+	<language>Kinyamwezi F22</language>
+	<author>Maganga and Schadeberg 1992</author>
+	<silcode>nym</silcode>
+	<glottocode>nyam1276</glottocode>
+	<notes>Data from Maganga and Schadeberg 1992 : Kinyamwezi grammar, texts, vocabulary. Rüdiger Köppe Verlag, Köln</notes>
+	<problems></problems>
+	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, F, Sukuma-Nyamwezi (F.20)</classification>
+	<typedby>Gisèle Teil-Dautrey</typedby>
+	<checkedby></checkedby>
+</record>
+
+<record>
+	<id>00451</id>
+	<word_id>00001</word_id>
+	<word>abuse</word>
+	<french>insulter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>hjɔ̀ɔ́gɔ̀ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00001</id>
+	<word_id>00002</word_id>
+	<word>all</word>
+	<french>tout</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ́sɛ̀</item>
+	<gram>P</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00002</id>
+	<word_id>00003</word_id>
+	<word>ancestor's spirit</word>
+	<french>esprit des ancêtres, mâne</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>sàámbwǎ</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation>spirit (of dead person)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00467</id>
+	<word_id>00003</word_id>
+	<word>ancestor's spirit</word>
+	<french>esprit des ancêtres, mâne</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>zìmú</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation>spirit (of dead person)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00003</id>
+	<word_id>00004</word_id>
+	<word>animal</word>
+	<french>animal</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>dìmú</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation>also cl. 5/6</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00004</id>
+	<word_id>00005</word_id>
+	<word>answer</word>
+	<french>répondre à une question</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃɔ̀ɔ̀ʃà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00005</id>
+	<word_id>00007</word_id>
+	<word>ant-hill</word>
+	<french>termitière</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>gʊ̀lʊ̀</item>
+	<gram>N</gram>
+	<genre>7, 8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00006</id>
+	<word_id>00008</word_id>
+	<word>arm</word>
+	<french>bras</french>
+	<nominal_prefix>m̀ / mà</nominal_prefix>
+	<item>kɔ̀nɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation>arm = hand</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00007</id>
+	<word_id>00009</word_id>
+	<word>armpit</word>
+	<french>aisselle</french>
+	<nominal_prefix>lj / m</nominal_prefix>
+	<item>ààpá</item>
+	<gram>N</gram>
+	<genre>5 ,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00008</id>
+	<word_id>00010</word_id>
+	<word>arrive</word>
+	<french>arriver</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃìkà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00009</id>
+	<word_id>00011</word_id>
+	<word>arrow</word>
+	<french>flèche</french>
+	<nominal_prefix>ŋw/mj</nominal_prefix>
+	<item>ààmbì</item>
+	<gram>N</gram>
+	<genre>3,4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00010</id>
+	<word_id>00011</word_id>
+	<word>arrow</word>
+	<french>flèche</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sɔ̀ɔ̀ŋgà</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00011</id>
+	<word_id>00011</word_id>
+	<word>arrow</word>
+	<french>flèche</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kʊ̀ʊ̀mbɔ̀</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation>(arrow head)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00287</id>
+	<word_id>00011</word_id>
+	<word>arrow</word>
+	<french>flèche</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɩ̀tá</item>
+	<gram>V</gram>
+	<genre>6</genre>
+	<annotation>point of arrow</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00012</id>
+	<word_id>00012</word_id>
+	<word>ashes</word>
+	<french>cendre</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>βùú</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00013</id>
+	<word_id>00013</word_id>
+	<word>ask for</word>
+	<french>demander</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɔ̀ɔ́mbá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00014</id>
+	<word_id>00014</word_id>
+	<word>axe</word>
+	<french>hache</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bàsàá</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00015</id>
+	<word_id>00015</word_id>
+	<word>back</word>
+	<french>dos</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>gɔ̀ɔ̀ŋgɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00016</id>
+	<word_id>00017</word_id>
+	<word>bad</word>
+	<french>mauvais</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βàjá</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00452</id>
+	<word_id>00017</word_id>
+	<word>bad</word>
+	<french>mauvais</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βìí</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation>bad, ugly</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00017</id>
+	<word_id>00020</word_id>
+	<word>bark</word>
+	<french>écorce</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gʊ́lǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00018</id>
+	<word_id>00021</word_id>
+	<word>bathe</word>
+	<french>se baigner</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀gá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>bathe, wash oneself</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00019</id>
+	<word_id>00022</word_id>
+	<word>be afraid</word>
+	<french>avoir peur, craindre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀gɔ́hà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00020</id>
+	<word_id>00023</word_id>
+	<word>be lame</word>
+	<french>être infirme</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɛ̀máálà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00021</id>
+	<word_id>00024</word_id>
+	<word>be satiated</word>
+	<french>être rassasié</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìgʊ́tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00022</id>
+	<word_id>00025</word_id>
+	<word>be, become</word>
+	<french>être, devenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βìí</item>
+	<gram>V irr</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00023</id>
+	<word_id>00025</word_id>
+	<word>be, become</word>
+	<french>être, devenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɩ̀</item>
+	<gram>V irr</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00024</id>
+	<word_id>00026</word_id>
+	<word>beard</word>
+	<french>barbe</french>
+	<nominal_prefix>n</nominal_prefix>
+	<item>dɛ̀zù</item>
+	<gram>N</gram>
+	<genre>10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00025</id>
+	<word_id>00027</word_id>
+	<word>become burnt</word>
+	<french>brûler (intr.)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pjàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>become burnt, catch fire</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00026</id>
+	<word_id>00028</word_id>
+	<word>become dry</word>
+	<french>sécher (intr.), être sec</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kàlá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>dry: become (as when a drum gains its normal pitch after being warmed up in the sun or by a fire)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00027</id>
+	<word_id>00028</word_id>
+	<word>become dry</word>
+	<french>sécher (intr.), être sec</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɲààlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>dry: become (of green vegetables), heal (of wound)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00028</id>
+	<word_id>00029</word_id>
+	<word>become full</word>
+	<french>se remplir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀kálà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00029</id>
+	<word_id>00031</word_id>
+	<word>become large, grow up</word>
+	<french>grandir, pousser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kʊ̀lá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00030</id>
+	<word_id>00032</word_id>
+	<word>bed</word>
+	<french>lit</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>lɩ̀ɩ́lɩ̌</item>
+	<gram>N</gram>
+	<genre>14, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00031</id>
+	<word_id>00033</word_id>
+	<word>bee</word>
+	<french>abeille</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>jʊ̀kɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00032</id>
+	<word_id>00034</word_id>
+	<word>beer</word>
+	<french>bière</french>
+	<nominal_prefix>w</nominal_prefix>
+	<item>ààlwàá</item>
+	<gram>N</gram>
+	<genre>14</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00033</id>
+	<word_id>00034</word_id>
+	<word>beer</word>
+	<french>bière</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>tʊ̀lɩ́lɛ́</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation>beer to which sugar or honey has been added</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00448</id>
+	<word_id>00034</word_id>
+	<word>beer</word>
+	<french>bière</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>lààmbjà</item>
+	<gram>N</gram>
+	<genre>3,4</genre>
+	<annotation>beer without sugar or honey added</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00034</id>
+	<word_id>00036</word_id>
+	<word>behind</word>
+	<french>derrière</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>nùmà</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00035</id>
+	<word_id>00037</word_id>
+	<word>belly, stomach</word>
+	<french>ventre</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>dà</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00036</id>
+	<word_id>00038</word_id>
+	<word>below</word>
+	<french>en dessous</french>
+	<nominal_prefix>n</nominal_prefix>
+	<item>sɩ̀lɩ́lɩ́</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00037</id>
+	<word_id>00039</word_id>
+	<word>bewitch</word>
+	<french>ensorceler, jeter un sort</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɔ̀gà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00038</id>
+	<word_id>00040</word_id>
+	<word>big</word>
+	<french>grand</french>
+	<nominal_prefix></nominal_prefix>
+	<item>háɲà</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00039</id>
+	<word_id>00042</word_id>
+	<word>bird</word>
+	<french>oiseau</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>nɔ̀nì</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00040</id>
+	<word_id>00043</word_id>
+	<word>bite</word>
+	<french>mordre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lùmá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00041</id>
+	<word_id>00043</word_id>
+	<word>bite</word>
+	<french>mordre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kàámvúgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00042</id>
+	<word_id>00044</word_id>
+	<word>bitter</word>
+	<french>-amer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tɛ̀mú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00043</id>
+	<word_id>00045</word_id>
+	<word>black</word>
+	<french>noir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pì</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00044</id>
+	<word_id>00046</word_id>
+	<word>bladder</word>
+	<french>vessie</french>
+	<nominal_prefix>lʊ̀/mààlʊ̀</nominal_prefix>
+	<item>hùβà</item>
+	<gram>N</gram>
+	<genre>11 /6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00045</id>
+	<word_id>00047</word_id>
+	<word>blind person</word>
+	<french>aveugle</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bɔ̀kù</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00046</id>
+	<word_id>00047</word_id>
+	<word>blind person</word>
+	<french>aveugle</french>
+	<nominal_prefix></nominal_prefix>
+	<item>hɔ̀fù</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00047</id>
+	<word_id>00048</word_id>
+	<word>blood</word>
+	<french>sang</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>gàzì</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00048</id>
+	<word_id>00049</word_id>
+	<word>body</word>
+	<french>corps</french>
+	<nominal_prefix>mù/mì</nominal_prefix>
+	<item>βɩ̀lɩ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00049</id>
+	<word_id>00050</word_id>
+	<word>boil</word>
+	<french>bouillir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɛ̀βjà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00050</id>
+	<word_id>00051</word_id>
+	<word>bone</word>
+	<french>os</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gùhá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00051</id>
+	<word_id>00052</word_id>
+	<word>boundary</word>
+	<french>limite, frontière</french>
+	<nominal_prefix>lʊ̀/mààlʊ̀</nominal_prefix>
+	<item>βɩ̀ɩ́mbɩ́</item>
+	<gram>N</gram>
+	<genre>11, 6 +</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00052</id>
+	<word_id>00053</word_id>
+	<word>bow</word>
+	<french>arc</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>tàá</item>
+	<gram>N</gram>
+	<genre>14, 6 +</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00053</id>
+	<word_id>00054</word_id>
+	<word>brain</word>
+	<french>cerveau, cervelle</french>
+	<nominal_prefix>βò/mààβò</nominal_prefix>
+	<item>ɔ́ŋgɔ̌</item>
+	<gram>N</gram>
+	<genre>14, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00054</id>
+	<word_id>00055</word_id>
+	<word>branch</word>
+	<french>branche</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>tàámbɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00055</id>
+	<word_id>00056</word_id>
+	<word>break</word>
+	<french>casser, rompre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɩ̀ɩ́nzá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00056</id>
+	<word_id>00058</word_id>
+	<word>breast</word>
+	<french>sein</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>βɛ̀ɛ́lɛ̌</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00057</id>
+	<word_id>00059</word_id>
+	<word>breath</word>
+	<french>haleine</french>
+	<nominal_prefix>m/mj</nominal_prefix>
+	<item>ʊ̀ʊ̀jɛ́</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00059</id>
+	<word_id>00060</word_id>
+	<word>bring</word>
+	<french>apporter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɛ̀ɛ́tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00058</id>
+	<word_id>00061</word_id>
+	<word>bring up child</word>
+	<french>élever un enfant</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɛ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00060</id>
+	<word_id>00062</word_id>
+	<word>build</word>
+	<french>construire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zɛ̀ɛ̀ŋgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00061</id>
+	<word_id>00063</word_id>
+	<word>bull</word>
+	<french>taureau</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>zàgáámbǎ</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00062</id>
+	<word_id>00064</word_id>
+	<word>bulrush millet</word>
+	<french>petit mil</french>
+	<nominal_prefix>ŋ</nominal_prefix>
+	<item>hɔ̀lɔ́ɔ́ŋgɔ́</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00063</id>
+	<word_id>00065</word_id>
+	<word>burden, load</word>
+	<french>fardeau</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>lìgɔ́</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00064</id>
+	<word_id>00066</word_id>
+	<word>burn</word>
+	<french>brûler (tr.)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βàʧ̑á</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00065</id>
+	<word_id>00067</word_id>
+	<word>bury</word>
+	<french>enterrer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʤ̑ɩ̀ɩ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00066</id>
+	<word_id>00068</word_id>
+	<word>bush</word>
+	<french>brousse</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bʊ̀gá</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation>bush, plain</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00067</id>
+	<word_id>00069</word_id>
+	<word>buttock</word>
+	<french>fesse</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>fììndɔ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00068</id>
+	<word_id>00070</word_id>
+	<word>buy</word>
+	<french>acheter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gʊ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00069</id>
+	<word_id>00071</word_id>
+	<word>calf of leg</word>
+	<french>mollet</french>
+	<nominal_prefix>lʊ̀/n</nominal_prefix>
+	<item>sàkʊ̀</item>
+	<gram>N</gram>
+	<genre>11,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00070</id>
+	<word_id>00071</word_id>
+	<word>calf of leg</word>
+	<french>mollet</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>sàlútǎ</item>
+	<gram>N</gram>
+	<genre>9a, 10a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00071</id>
+	<word_id>00072</word_id>
+	<word>call</word>
+	<french>appeler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìtánà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00072</id>
+	<word_id>00074</word_id>
+	<word>carry child on back</word>
+	<french>porter un enfant sur le dos</french>
+	<nominal_prefix></nominal_prefix>
+	<item>hɛ̀ɛ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00073</id>
+	<word_id>00075</word_id>
+	<word>cat</word>
+	<french>chat</french>
+	<nominal_prefix>ɲ/ɲ</nominal_prefix>
+	<item>àáβʊ̌</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00074</id>
+	<word_id>00076</word_id>
+	<word>cattle</word>
+	<french>bovin, vache</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>ŋɔ̀ɔ̀mbɛ̀</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00075</id>
+	<word_id>00077</word_id>
+	<word>cease, finish</word>
+	<french>cesser, fìnir (ìntr.)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>màlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00076</id>
+	<word_id>00077</word_id>
+	<word>cease, finish</word>
+	<french>cesser, fìnir (ìntr.)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃìlá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00077</id>
+	<word_id>00078</word_id>
+	<word>chair, seat</word>
+	<french>chaise, siège</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sʊ̀ʊ́mbɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00078</id>
+	<word_id>00079</word_id>
+	<word>charcoal</word>
+	<french>charbon de bois</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kàlá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00079</id>
+	<word_id>00080</word_id>
+	<word>chase away</word>
+	<french>chasser, faire partir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pɛ̀ɛ̀ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00080</id>
+	<word_id>00081</word_id>
+	<word>cheek</word>
+	<french>joue</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>tàmá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00081</id>
+	<word_id>00082</word_id>
+	<word>chest</word>
+	<french>poitrine (d'homme)</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>kùβá</item>
+	<gram>N</gram>
+	<genre>7 ,8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00082</id>
+	<word_id>00083</word_id>
+	<word>child</word>
+	<french>enfant</french>
+	<nominal_prefix>ŋw/β</nominal_prefix>
+	<item>ààná</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00083</id>
+	<word_id>00084</word_id>
+	<word>chin</word>
+	<french>menton</french>
+	<nominal_prefix>kà/tʊ̀</nominal_prefix>
+	<item>lɛ̀zù</item>
+	<gram>N</gram>
+	<genre>12, 13</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00084</id>
+	<word_id>00085</word_id>
+	<word>choose</word>
+	<french>choisir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sààgʊ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00085</id>
+	<word_id>00086</word_id>
+	<word>clan</word>
+	<french>clan</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gɔ̀ɔ̀ŋgɔ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00086</id>
+	<word_id>00087</word_id>
+	<word>clothes</word>
+	<french>vêtements</french>
+	<nominal_prefix>ŋw/mj</nominal_prefix>
+	<item>ɛ̀ɛ̀ndá</item>
+	<gram>N</gram>
+	<genre>3,4</genre>
+	<annotation>clothes, clothing</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00087</id>
+	<word_id>00088</word_id>
+	<word>cloud</word>
+	<french>nuage</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>lùùndɛ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00088</id>
+	<word_id>00089</word_id>
+	<word>cold</word>
+	<french>froid</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nɛ̀dɛ̀kú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00089</id>
+	<word_id>00090</word_id>
+	<word>come</word>
+	<french>venir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìzà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00090</id>
+	<word_id>00091</word_id>
+	<word>complete, finish</word>
+	<french>terminer (tr.)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tìmɩ̀lɩ̀ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00091</id>
+	<word_id>00092</word_id>
+	<word>cook</word>
+	<french>faire la cuisine</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zùgá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00092</id>
+	<word_id>00092</word_id>
+	<word>cook</word>
+	<french>faire la cuisine</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dɛ̀ɛ́kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00093</id>
+	<word_id>00093</word_id>
+	<word>cooking pot</word>
+	<french>marmite, pot</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>nùúŋgʊ̌</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00449</id>
+	<word_id>00094</word_id>
+	<word>corpse</word>
+	<french>cadavre</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>lààmbɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00094</id>
+	<word_id>00095</word_id>
+	<word>cough</word>
+	<french>tousser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɔ̀lɔ́là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00095</id>
+	<word_id>00096</word_id>
+	<word>count</word>
+	<french>compter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βàlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00450</id>
+	<word_id>00097</word_id>
+	<word>country</word>
+	<french>pays</french>
+	<nominal_prefix>n</nominal_prefix>
+	<item>sɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00096</id>
+	<word_id>00098</word_id>
+	<word>courtyard</word>
+	<french>cour (d'une concession)</french>
+	<nominal_prefix>lʊ̀/mààlʊ̀</nominal_prefix>
+	<item>βʊ̀ʊ́gǎ</item>
+	<gram>N</gram>
+	<genre>11, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00097</id>
+	<word_id>00099</word_id>
+	<word>cross river</word>
+	<french>traverser une rivière</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɩ̀lá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00098</id>
+	<word_id>00100</word_id>
+	<word>cry, wail</word>
+	<french>pleurer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00099</id>
+	<word_id>00101</word_id>
+	<word>cultivate</word>
+	<french>cultiver</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɩ̀mà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00100</id>
+	<word_id>00102</word_id>
+	<word>cut</word>
+	<french>couper</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bùtá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00468</id>
+	<word_id>00102</word_id>
+	<word>cut</word>
+	<french>couper</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tɛ̀má</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>cut (with sharp instrument); become bitter; rule, reign</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00101</id>
+	<word_id>00103</word_id>
+	<word>dance</word>
+	<french>danser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nɛ̀gùlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00102</id>
+	<word_id>00103</word_id>
+	<word>dance</word>
+	<french>danser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fùnà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00103</id>
+	<word_id>00103</word_id>
+	<word>dance</word>
+	<french>danser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βìná</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00104</id>
+	<word_id>00104</word_id>
+	<word>day</word>
+	<french>jour</french>
+	<nominal_prefix>lʊ̀/n</nominal_prefix>
+	<item>ʃíkʊ̌</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00105</id>
+	<word_id>00105</word_id>
+	<word>daytime</word>
+	<french>journée</french>
+	<nominal_prefix>Ø/màà</nominal_prefix>
+	<item>lɩ̀ɩ̀mìí</item>
+	<gram>N</gram>
+	<genre>5a, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00106</id>
+	<word_id>00106</word_id>
+	<word>defecate</word>
+	<french>déféquer, faire caca</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɲà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00107</id>
+	<word_id>00108</word_id>
+	<word>die</word>
+	<french>mourir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00469</id>
+	<word_id>00108</word_id>
+	<word>die</word>
+	<french>mourir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gùlààlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00470</id>
+	<word_id>00108</word_id>
+	<word>die</word>
+	<french>mourir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gàjà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00108</id>
+	<word_id>00109</word_id>
+	<word>dig</word>
+	<french>creuser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɩ̀ɩ̀mbà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00109</id>
+	<word_id>00111</word_id>
+	<word>divide</word>
+	<french>partager</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gàβà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00110</id>
+	<word_id>00112</word_id>
+	<word>dog</word>
+	<french>chien</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bwàá</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00111</id>
+	<word_id>00113</word_id>
+	<word>donkey</word>
+	<french>âne</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>zɔ̀βɛ́</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00112</id>
+	<word_id>00114</word_id>
+	<word>door</word>
+	<french>porte</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>zìgɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00113</id>
+	<word_id>00114</word_id>
+	<word>door</word>
+	<french>porte</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>ljààŋgɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00114</id>
+	<word_id>00115</word_id>
+	<word>draw water</word>
+	<french>puiser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dàhá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00115</id>
+	<word_id>00116</word_id>
+	<word>dream</word>
+	<french>rêver</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɔ̀ɔ́tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00116</id>
+	<word_id>00117</word_id>
+	<word>drink</word>
+	<french>boire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ŋwàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00117</id>
+	<word_id>00117</word_id>
+	<word>drink</word>
+	<french>boire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bʊ̀ʊ̀tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>drink or eat (thick liquid such as gruel; with sucking sound)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00118</id>
+	<word_id>00119</word_id>
+	<word>drum</word>
+	<french>tambour</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>ŋɔ̀mà</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00119</id>
+	<word_id>00119</word_id>
+	<word>drum</word>
+	<french>tambour</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>fìpá</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation>drum (big round container from metal)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00120</id>
+	<word_id>00120</word_id>
+	<word>dust</word>
+	<french>poussière</french>
+	<nominal_prefix>lʊ̀/mààlʊ̀</nominal_prefix>
+	<item>βùúβú</item>
+	<gram>N</gram>
+	<genre>11, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00121</id>
+	<word_id>00121</word_id>
+	<word>dwell</word>
+	<french>habiter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìkàlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>dwell, live, sit</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00122</id>
+	<word_id>00122</word_id>
+	<word>ear</word>
+	<french>oreille</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>twìí</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00123</id>
+	<word_id>00123</word_id>
+	<word>eat</word>
+	<french>manger</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ljàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00124</id>
+	<word_id>00123</word_id>
+	<word>eat</word>
+	<french>manger</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀nɛ́kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00125</id>
+	<word_id>00124</word_id>
+	<word>egg</word>
+	<french>oeuf</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00126</id>
+	<word_id>00125</word_id>
+	<word>eight</word>
+	<french>huit</french>
+	<nominal_prefix>m̀</nominal_prefix>
+	<item>nàánɛ́</item>
+	<gram>N</gram>
+	<genre>3</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00127</id>
+	<word_id>00126</word_id>
+	<word>elbow</word>
+	<french>coude</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gɔ̀ɔ́kɔ̀ɔ̀lǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00128</id>
+	<word_id>00127</word_id>
+	<word>elephant</word>
+	<french>éléphant</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>zɔ̀vù</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00129</id>
+	<word_id>00129</word_id>
+	<word>extinguish</word>
+	<french>éteindre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zìmá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>extinguish itr.</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00130</id>
+	<word_id>00129</word_id>
+	<word>extinguish</word>
+	<french>éteindre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zìmjá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>extinguish tr.</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00131</id>
+	<word_id>00130</word_id>
+	<word>eye</word>
+	<french>oeil</french>
+	<nominal_prefix>lì / m</nominal_prefix>
+	<item>ìsɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00132</id>
+	<word_id>00131</word_id>
+	<word>eyebrow</word>
+	<french>sourcil</french>
+	<nominal_prefix>m</nominal_prefix>
+	<item>bɔ̀ní</item>
+	<gram>N</gram>
+	<genre>10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00133</id>
+	<word_id>00132</word_id>
+	<word>eyelash</word>
+	<french>cil</french>
+	<nominal_prefix>lʊ̀/ŋ</nominal_prefix>
+	<item>gɔ̀hɛ́</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00134</id>
+	<word_id>00133</word_id>
+	<word>face</word>
+	<french>visage</french>
+	<nominal_prefix>βʊ̀/ma</nominal_prefix>
+	<item>ʃʊ̀ʊ́</item>
+	<gram>N</gram>
+	<genre>14, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00135</id>
+	<word_id>00134</word_id>
+	<word>fall</word>
+	<french>tomber</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gwà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00136</id>
+	<word_id>00135</word_id>
+	<word>far</word>
+	<french>loin</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kʊ̀lɛ̀</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00137</id>
+	<word_id>00136</word_id>
+	<word>fat, oil</word>
+	<french>graisse, huile</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>gùtá</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00138</id>
+	<word_id>00137</word_id>
+	<word>fat, thick</word>
+	<french>épais</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɩ̀nùú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00139</id>
+	<word_id>00138</word_id>
+	<word>fear</word>
+	<french>peur</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀ɔ̀βá</item>
+	<gram>N</gram>
+	<genre>14</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00140</id>
+	<word_id>00139</word_id>
+	<word>feather</word>
+	<french>plume</french>
+	<nominal_prefix>l/nz</nominal_prefix>
+	<item>ɔ̀ɔ̀jàá</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00141</id>
+	<word_id>00140</word_id>
+	<word>few</word>
+	<french>peu</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɛ̀ɛ́hú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00453</id>
+	<word_id>00140</word_id>
+	<word>few</word>
+	<french>peu</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dɔ̀ɔ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation>few, small</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00142</id>
+	<word_id>00141</word_id>
+	<word>field</word>
+	<french>champ</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>làálɛ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00143</id>
+	<word_id>00142</word_id>
+	<word>fierce, sharp</word>
+	<french>féroce, acéré</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɔ̀ɔ̀ŋgɔ̀kú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00144</id>
+	<word_id>00143</word_id>
+	<word>fight</word>
+	<french>combattre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìkɛ́ɲà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00145</id>
+	<word_id>00144</word_id>
+	<word>finger</word>
+	<french>doigt</french>
+	<nominal_prefix>lw/m</nominal_prefix>
+	<item>ààlá</item>
+	<gram>N</gram>
+	<genre>11, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00146</id>
+	<word_id>00145</word_id>
+	<word>fingernail</word>
+	<french>ongle</french>
+	<nominal_prefix>lʊ̀</nominal_prefix>
+	<item>zàlá</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00147</id>
+	<word_id>00146</word_id>
+	<word>fire</word>
+	<french>feu</french>
+	<nominal_prefix>m / mj</nominal_prefix>
+	<item>ɔ̀ɔ̀tɔ́</item>
+	<gram>N</gram>
+	<genre>3 ,4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00148</id>
+	<word_id>00147</word_id>
+	<word>fireplace, hearth</word>
+	<french>foyer, âtre</french>
+	<nominal_prefix>lì/mààlì</nominal_prefix>
+	<item>ìkɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00149</id>
+	<word_id>00148</word_id>
+	<word>firewood</word>
+	<french>bois à brûler</french>
+	<nominal_prefix>lʊ̀/ŋ</nominal_prefix>
+	<item>kwìí</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00150</id>
+	<word_id>00149</word_id>
+	<word>fish</word>
+	<french>poisson</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>sɔ̀ɔ́mbǎ</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00151</id>
+	<word_id>00150</word_id>
+	<word>fist</word>
+	<french>poing</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kùùnzìí</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00152</id>
+	<word_id>00151</word_id>
+	<word>five</word>
+	<french>cinq</french>
+	<nominal_prefix></nominal_prefix>
+	<item>táánɔ̌</item>
+	<gram>PNUM</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00153</id>
+	<word_id>00152</word_id>
+	<word>flower</word>
+	<french>fleur</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>úwǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00154</id>
+	<word_id>00152</word_id>
+	<word>flower</word>
+	<french>fleur</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>láβʊ̌</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00155</id>
+	<word_id>00153</word_id>
+	<word>fly</word>
+	<french>mouche</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>gìí</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00156</id>
+	<word_id>00153</word_id>
+	<word>fly</word>
+	<french>mouche</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sààzì</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00157</id>
+	<word_id>00154</word_id>
+	<word>fly, to</word>
+	<french>voler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>làlá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00158</id>
+	<word_id>00155</word_id>
+	<word>foam</word>
+	<french>écume</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>fùlɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00159</id>
+	<word_id>00156</word_id>
+	<word>follow</word>
+	<french>suivre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɔ̀ɔ̀ndà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00160</id>
+	<word_id>00157</word_id>
+	<word>forest</word>
+	<french>forêt</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>pɔ̀ɔ́lú</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00161</id>
+	<word_id>00158</word_id>
+	<word>forget</word>
+	<french>oublier</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɩ̀βà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00162</id>
+	<word_id>00159</word_id>
+	<word>four</word>
+	<french>quatre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nɛ̀</item>
+	<gram>PNUM</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00163</id>
+	<word_id>00159</word_id>
+	<word>four</word>
+	<french>quatre</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>wàánɛ̌</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation>used for counting without reference to any specific object</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00164</id>
+	<word_id>00160</word_id>
+	<word>fowl, chicken</word>
+	<french>volaille, poule(t)</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>gɔ̀kɔ́</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00165</id>
+	<word_id>00161</word_id>
+	<word>frog</word>
+	<french>grenouille</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>ʧ̑ʊ̀ʊ̀làá</item>
+	<gram>N</gram>
+	<genre>9a, 10a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00166</id>
+	<word_id>00162</word_id>
+	<word>fry</word>
+	<french>frire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kàlááŋgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00167</id>
+	<word_id>00163</word_id>
+	<word>gather (flowers, fruit)</word>
+	<french>cueillir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kùmííŋgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00168</id>
+	<word_id>00164</word_id>
+	<word>get accustomed</word>
+	<french>s'habituer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>mànɩ̀ɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00169</id>
+	<word_id>00165</word_id>
+	<word>get intoxicated</word>
+	<french>s'enivrer, se saoûler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɔ̀lá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00170</id>
+	<word_id>00167</word_id>
+	<word>get wet</word>
+	<french>se mouiller</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dɔ̀tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00171</id>
+	<word_id>00168</word_id>
+	<word>get, obtain</word>
+	<french>obtenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pààndɩ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00172</id>
+	<word_id>00169</word_id>
+	<word>give</word>
+	<french>donner</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00173</id>
+	<word_id>00169</word_id>
+	<word>give</word>
+	<french>donner</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìŋʰá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00174</id>
+	<word_id>00170</word_id>
+	<word>give birth</word>
+	<french>mettre au monde</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βùtá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00175</id>
+	<word_id>00170</word_id>
+	<word>give birth</word>
+	<french>mettre au monde</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βjàálà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00176</id>
+	<word_id>00171</word_id>
+	<word>go</word>
+	<french>aller</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00177</id>
+	<word_id>00172</word_id>
+	<word>go in</word>
+	<french>entrer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìŋgílà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>go in, enter</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00178</id>
+	<word_id>00173</word_id>
+	<word>go out, go away</word>
+	<french>sortir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fùmá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00179</id>
+	<word_id>00174</word_id>
+	<word>goat</word>
+	<french>chèvre</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bʊ̀lí</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00180</id>
+	<word_id>00175</word_id>
+	<word>God</word>
+	<french>Dieu</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>kùúβɛ̌</item>
+	<gram>N</gram>
+	<genre>5a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00181</id>
+	<word_id>00175</word_id>
+	<word>God</word>
+	<french>Dieu</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>ɲààŋgàsà</item>
+	<gram>N</gram>
+	<genre>5a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00182</id>
+	<word_id>00175</word_id>
+	<word>God</word>
+	<french>Dieu</french>
+	<nominal_prefix>ɲ</nominal_prefix>
+	<item>àhɩ̀ɩ́ŋgǎ</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation>God, creator</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00183</id>
+	<word_id>00176</word_id>
+	<word>good, beautiful</word>
+	<french>bon, beau</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɔ̀gá</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00184</id>
+	<word_id>00176</word_id>
+	<word>good, beautiful</word>
+	<french>bon, beau</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìzà</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation>good</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00185</id>
+	<word_id>00178</word_id>
+	<word>grandfather</word>
+	<french>grand-père</french>
+	<nominal_prefix>Ø/βàà</nominal_prefix>
+	<item>gʊ̀ʊ́kʊ̌</item>
+	<gram>N</gram>
+	<genre>1a, 2+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00186</id>
+	<word_id>00179</word_id>
+	<word>grandmother</word>
+	<french>grand'mère</french>
+	<nominal_prefix>Ø/βàà</nominal_prefix>
+	<item>màámǎ</item>
+	<gram>N</gram>
+	<genre>1a, 2+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00187</id>
+	<word_id>00180</word_id>
+	<word>grasp, hold in arms</word>
+	<french>étreindre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kùúmbátɩ̀là</item>
+	<gram></gram>
+	<genre></genre>
+	<annotation>grasp, hold in arms, embrace</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00188</id>
+	<word_id>00181</word_id>
+	<word>grind</word>
+	<french>moudre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00189</id>
+	<word_id>00183</word_id>
+	<word>hair</word>
+	<french>cheveux</french>
+	<nominal_prefix>lʊ̀/Ø</nominal_prefix>
+	<item>ɲɛ̀lɛ́</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00190</id>
+	<word_id>00184</word_id>
+	<word>hard</word>
+	<french>dur</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lààmbùú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00191</id>
+	<word_id>00184</word_id>
+	<word>hard</word>
+	<french>dur</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dàámú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation>hard or stiff (of objects), difficult, hard-working (of people)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00192</id>
+	<word_id>00185</word_id>
+	<word>head</word>
+	<french>tête</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>twɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00193</id>
+	<word_id>00186</word_id>
+	<word>headpad</word>
+	<french>coussinet de tête</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>gàtá</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00194</id>
+	<word_id>00187</word_id>
+	<word>hear</word>
+	<french>entendre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìgwá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00195</id>
+	<word_id>00188</word_id>
+	<word>heart</word>
+	<french>coeur</french>
+	<nominal_prefix>m/mj</nominal_prefix>
+	<item>ɔ̀ɔ̀jɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00196</id>
+	<word_id>00189</word_id>
+	<word>hearthstone</word>
+	<french>chenêt, pierre du foyer</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>fígǎ</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation>hearthstone, cooking stone</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00197</id>
+	<word_id>00190</word_id>
+	<word>heel</word>
+	<french>talon</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>ʃìígìnɔ̌</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00198</id>
+	<word_id>00191</word_id>
+	<word>hide</word>
+	<french>se cacher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βìsá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00454</id>
+	<word_id>00191</word_id>
+	<word>hide</word>
+	<french>se cacher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fùùmbà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>hide by covering, prevent from being seen</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00199</id>
+	<word_id>00192</word_id>
+	<word>hip</word>
+	<french>hanche</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>dàkɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00200</id>
+	<word_id>00193</word_id>
+	<word>hit</word>
+	<french>frapper</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tʊ̀lá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00201</id>
+	<word_id>00193</word_id>
+	<word>hit</word>
+	<french>frapper</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bɔ̀ɔ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>hit, crash into</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00202</id>
+	<word_id>00193</word_id>
+	<word>hit</word>
+	<french>frapper</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɩ̀ɩ̀ndà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>push or hit (as with stick or elbow)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00203</id>
+	<word_id>00194</word_id>
+	<word>hoe</word>
+	<french>houe</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gɛ̀ɛ̀mbɛ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00296</id>
+	<word_id>00195</word_id>
+	<word>hole</word>
+	<french>fosse, trou dans le sol</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>pɛ̀ɛ̀mbɔ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation>hole in the trunk of a tree</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00297</id>
+	<word_id>00195</word_id>
+	<word>hole</word>
+	<french>fosse, trou dans le sol</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>dʊ̀lʊ́lʊ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation>through sth., e.g. shirt</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00204</id>
+	<word_id>00196</word_id>
+	<word>honey</word>
+	<french>miel</french>
+	<nominal_prefix>β</nominal_prefix>
+	<item>ʊ̀ʊ̀kɩ́</item>
+	<gram>N</gram>
+	<genre>14</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00205</id>
+	<word_id>00197</word_id>
+	<word>horn</word>
+	<french>corne</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>pɛ̀ɛ́mbɛ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00206</id>
+	<word_id>00198</word_id>
+	<word>house</word>
+	<french>maison</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>nùúmbǎ</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00207</id>
+	<word_id>00199</word_id>
+	<word>how many</word>
+	<french>combien</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ŋgǎ</item>
+	<gram>P</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00208</id>
+	<word_id>00200</word_id>
+	<word>hundred</word>
+	<french>cent</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gànà</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00209</id>
+	<word_id>00201</word_id>
+	<word>hunger</word>
+	<french>faim</french>
+	<nominal_prefix>n</nominal_prefix>
+	<item>zàlà</item>
+	<gram>N</gram>
+	<genre>9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00210</id>
+	<word_id>00202</word_id>
+	<word>hunt</word>
+	<french>chasser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>wɩ̀ɩ́mà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00211</id>
+	<word_id>00202</word_id>
+	<word>hunt</word>
+	<french>chasser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>hɩ̀ɩ́gà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00212</id>
+	<word_id>00203</word_id>
+	<word>hunter</word>
+	<french>chasseur</french>
+	<nominal_prefix>mù/βà</nominal_prefix>
+	<item>wɩ̀ɩ́mì</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00213</id>
+	<word_id>00203</word_id>
+	<word>hunter</word>
+	<french>chasseur</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>hɩ̀ɩ́gì</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00214</id>
+	<word_id>00204</word_id>
+	<word>husband</word>
+	<french>mari</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>gɔ̀ɔ̀ʃií</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00215</id>
+	<word_id>00205</word_id>
+	<word>hyena</word>
+	<french>hyène</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bìtí</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00216</id>
+	<word_id>00206</word_id>
+	<word>I</word>
+	<french>moi</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nɛ̀ɛ̀nɛ́</item>
+	<gram>P SUBST</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00217</id>
+	<word_id>00208</word_id>
+	<word>increase</word>
+	<french>augmenter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀ŋgɛ̀ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00218</id>
+	<word_id>00209</word_id>
+	<word>inside</word>
+	<french>à l'intérieur</french>
+	<nominal_prefix>m̀</nominal_prefix>
+	<item>gàtɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>18</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00219</id>
+	<word_id>00210</word_id>
+	<word>intestines</word>
+	<french>intestins, entrailles</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>là</item>
+	<gram>N</gram>
+	<genre>14, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00220</id>
+	<word_id>00212</word_id>
+	<word>jaw</word>
+	<french>mâchoire</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sàʤ̑à</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00221</id>
+	<word_id>00213</word_id>
+	<word>jealousy</word>
+	<french>jalousie</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>βʊ̀βà</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00222</id>
+	<word_id>00214</word_id>
+	<word>keep livestock</word>
+	<french>élever du bétail, être éleve</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sàβà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00223</id>
+	<word_id>00215</word_id>
+	<word>kidney</word>
+	<french>rein</french>
+	<nominal_prefix>lʊ̀/m</nominal_prefix>
+	<item>fìgɔ́</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00224</id>
+	<word_id>00216</word_id>
+	<word>kill</word>
+	<french>tuer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βʊ̀lágà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00225</id>
+	<word_id>00217</word_id>
+	<word>knee</word>
+	<french>genou</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>jʊ̀ʊ̀ŋgɔ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00226</id>
+	<word_id>00217</word_id>
+	<word>knee</word>
+	<french>genou</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>zwìí</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00227</id>
+	<word_id>00219</word_id>
+	<word>knife</word>
+	<french>couteau</french>
+	<nominal_prefix>lʊ̀/n</nominal_prefix>
+	<item>ʃʊ̀ʊ́</item>
+	<gram>N</gram>
+	<genre>11,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00228</id>
+	<word_id>00219</word_id>
+	<word>knife</word>
+	<french>couteau</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>ʤ̑ɔ́ɔ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation>knife (improvised instrument for cutting or carving)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00229</id>
+	<word_id>00220</word_id>
+	<word>know</word>
+	<french>savoir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>mànà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00230</id>
+	<word_id>00221</word_id>
+	<word>lake, (pool)</word>
+	<french>lac (étang, mare)</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>ɲààɲzàá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00231</id>
+	<word_id>00221</word_id>
+	<word>lake, (pool)</word>
+	<french>lac (étang, mare)</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>làámbɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation>pool (small)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00232</id>
+	<word_id>00222</word_id>
+	<word>laugh</word>
+	<french>rire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɛ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00233</id>
+	<word_id>00223</word_id>
+	<word>lazy</word>
+	<french>paresseux</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zɔ̀βùú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00234</id>
+	<word_id>00224</word_id>
+	<word>leaf</word>
+	<french>feuille</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>dʊ̀ʊ́tʊ̌</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00235</id>
+	<word_id>00225</word_id>
+	<word>learn</word>
+	<french>apprendre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìláánʤ̑à</item>
+	<gram>V refl</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00236</id>
+	<word_id>00226</word_id>
+	<word>leave, go away</word>
+	<french>s'en aller, partir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɩ̀ŋgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00237</id>
+	<word_id>00227</word_id>
+	<word>left (hand)</word>
+	<french>(main) gauche</french>
+	<nominal_prefix>lʊ̀</nominal_prefix>
+	<item>mɔ́sɔ̌</item>
+	<gram>N</gram>
+	<genre>11</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00238</id>
+	<word_id>00228</word_id>
+	<word>leg</word>
+	<french>jambe</french>
+	<nominal_prefix>m̀ /mà</nominal_prefix>
+	<item>gʊ̀lʊ̀</item>
+	<gram>N</gram>
+	<genre>3,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00239</id>
+	<word_id>00228</word_id>
+	<word>leg</word>
+	<french>jambe</french>
+	<nominal_prefix>kù /mà</nominal_prefix>
+	<item>gʊ̀lʊ̀</item>
+	<gram>N</gram>
+	<genre>15,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00240</id>
+	<word_id>00229</word_id>
+	<word>lick</word>
+	<french>lécher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>làámbá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00241</id>
+	<word_id>00230</word_id>
+	<word>lie down, sleep</word>
+	<french>se coucher, dormir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βùúndáálà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00242</id>
+	<word_id>00231</word_id>
+	<word>light</word>
+	<french>léger</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>nɛ̀ɛ̀ŋgɛ̀ɛ̀là</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00243</id>
+	<word_id>00232</word_id>
+	<word>lightning</word>
+	<french>éclair</french>
+	<nominal_prefix>lʊ̀/ŋ</nominal_prefix>
+	<item>kɛ̀ɛ̀mɔ̀</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00244</id>
+	<word_id>00233</word_id>
+	<word>lip</word>
+	<french>lèvre</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>lɔ̀mɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00245</id>
+	<word_id>00234</word_id>
+	<word>listen</word>
+	<french>écouter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dɛ̀gɛ́lɛ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00246</id>
+	<word_id>00235</word_id>
+	<word>liver</word>
+	<french>foie</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>tɩ̀má</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00247</id>
+	<word_id>00236</word_id>
+	<word>locust</word>
+	<french>criquet</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>jìgɛ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00248</id>
+	<word_id>00237</word_id>
+	<word>long</word>
+	<french>long</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lììhú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00249</id>
+	<word_id>00238</word_id>
+	<word>look at</word>
+	<french>regarder</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɔ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00250</id>
+	<word_id>00239</word_id>
+	<word>look for</word>
+	<french>chercher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɔ̀ɔ̀βà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00251</id>
+	<word_id>00240</word_id>
+	<word>louse</word>
+	<french>pou</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>dàá</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00252</id>
+	<word_id>00241</word_id>
+	<word>love, want</word>
+	<french>vouloir, aimer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tɔ̀gwá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00253</id>
+	<word_id>00242</word_id>
+	<word>lung</word>
+	<french>poumon</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>bʊ̀ʊ́pʊ̌</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00254</id>
+	<word_id>00243</word_id>
+	<word>maize</word>
+	<french>maïs</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>dɛ́gɛ̌</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00255</id>
+	<word_id>00244</word_id>
+	<word>many</word>
+	<french>beaucoup</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìŋgɩ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00256</id>
+	<word_id>00245</word_id>
+	<word>marry</word>
+	<french>épouser (sujet : homme)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tɔ̀ɔ́là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00257</id>
+	<word_id>00246</word_id>
+	<word>meat</word>
+	<french>viande</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>ɲàmà</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00258</id>
+	<word_id>00247</word_id>
+	<word>medicine</word>
+	<french>remède</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>gààŋgà</item>
+	<gram>N</gram>
+	<genre>14/6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00259</id>
+	<word_id>00247</word_id>
+	<word>medicine</word>
+	<french>remède</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>gɔ̀tá</item>
+	<gram>N</gram>
+	<genre>14/6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00260</id>
+	<word_id>00248</word_id>
+	<word>medicine man, doctor</word>
+	<french>guérisseur, tradipraticie</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>fùmú</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00261</id>
+	<word_id>00249</word_id>
+	<word>meet</word>
+	<french>rencontrer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sààŋgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00262</id>
+	<word_id>00250</word_id>
+	<word>milk</word>
+	<french>lait</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>βɛ̀ɛ́lɛ̌</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00263</id>
+	<word_id>00251</word_id>
+	<word>moon</word>
+	<french>lune</french>
+	<nominal_prefix>ŋw/mj</nominal_prefix>
+	<item>ɛ̀ɛ̀zí</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00264</id>
+	<word_id>00252</word_id>
+	<word>mosquito</word>
+	<french>moustique</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bʊ̀ʊ́</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00265</id>
+	<word_id>00253</word_id>
+	<word>mould pottery</word>
+	<french>façonner de la poterie</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βʊ̀ʊ́mbá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00266</id>
+	<word_id>00254</word_id>
+	<word>mountain, (hill)</word>
+	<french>montagne, (colline)</french>
+	<nominal_prefix>lʊ̀/ŋ</nominal_prefix>
+	<item>gʊ̀lʊ̀</item>
+	<gram>N</gram>
+	<genre>11 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00267</id>
+	<word_id>00255</word_id>
+	<word>mouth</word>
+	<french>bouche</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>lɔ̀mɔ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00268</id>
+	<word_id>00256</word_id>
+	<word>move away</word>
+	<french>émigrer, déménager</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sààmà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00269</id>
+	<word_id>00257</word_id>
+	<word>mud</word>
+	<french>boue</french>
+	<nominal_prefix>βʊ̀</nominal_prefix>
+	<item>lɔ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>14</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00270</id>
+	<word_id>00258</word_id>
+	<word>name</word>
+	<french>nom</french>
+	<nominal_prefix>lì / mà</nominal_prefix>
+	<item>lììná</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00271</id>
+	<word_id>00259</word_id>
+	<word>nape</word>
+	<french>nuque</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>nʰàgálàlɔ̌</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00272</id>
+	<word_id>00260</word_id>
+	<word>navel</word>
+	<french>nombril</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>nɔ̀kú</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00273</id>
+	<word_id>00261</word_id>
+	<word>near</word>
+	<french>près</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bɩ̀ɩ̀hɩ́</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00274</id>
+	<word_id>00262</word_id>
+	<word>neck</word>
+	<french>cou</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>hìíŋgɔ́</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00275</id>
+	<word_id>00262</word_id>
+	<word>neck</word>
+	<french>cou</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kɔ̀sì</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00276</id>
+	<word_id>00263</word_id>
+	<word>new</word>
+	<french>nouveau</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pjàá</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00277</id>
+	<word_id>00264</word_id>
+	<word>night</word>
+	<french>nuit</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>zìkʊ́</item>
+	<gram>N</gram>
+	<genre>14/6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00278</id>
+	<word_id>00265</word_id>
+	<word>nine</word>
+	<french>neuf</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>kɛ̀ɛ̀ndàá</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00279</id>
+	<word_id>00266</word_id>
+	<word>nose</word>
+	<french>nez</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>nìíndɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation>also cl. 9/10</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00455</id>
+	<word_id>00268</word_id>
+	<word>old person</word>
+	<french>vieillard</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>nààmʰàlá</item>
+	<gram>N</gram>
+	<genre>1,2</genre>
+	<annotation>old man</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00456</id>
+	<word_id>00268</word_id>
+	<word>old person</word>
+	<french>vieillard</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>gìíkʊ́lʊ́</item>
+	<gram>N</gram>
+	<genre>1,2</genre>
+	<annotation>old woman</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00280</id>
+	<word_id>00270</word_id>
+	<word>one</word>
+	<french>un</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>sɔ̀ɔ̀lɔ̀ɔ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00281</id>
+	<word_id>00271</word_id>
+	<word>open</word>
+	<french>ouvrir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lùgʊ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00282</id>
+	<word_id>00272</word_id>
+	<word>ours</word>
+	<french>notre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɛ́</item>
+	<gram>P</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00283</id>
+	<word_id>00273</word_id>
+	<word>outside</word>
+	<french>dehors</french>
+	<nominal_prefix>hààn</nominal_prefix>
+	<item>zɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre>16+9</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00284</id>
+	<word_id>00273</word_id>
+	<word>outside</word>
+	<french>dehors</french>
+	<nominal_prefix>hììb</nominal_prefix>
+	<item>ààlà</item>
+	<gram>N</gram>
+	<genre>16+5</genre>
+	<annotation>lit. at the clearing</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00285</id>
+	<word_id>00274</word_id>
+	<word>overcome</word>
+	<french>vaincre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kìíndá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00286</id>
+	<word_id>00275</word_id>
+	<word>palm of hand</word>
+	<french>paume</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>gàànzà</item>
+	<gram>N</gram>
+	<genre>7, 8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00288</id>
+	<word_id>00277</word_id>
+	<word>path</word>
+	<french>sentier, chemin</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>zɩ̀là</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00289</id>
+	<word_id>00278</word_id>
+	<word>pay</word>
+	<french>payer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lɩ̀pà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00290</id>
+	<word_id>00278</word_id>
+	<word>pay</word>
+	<french>payer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kwàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00291</id>
+	<word_id>00279</word_id>
+	<word>peel</word>
+	<french>peler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tɔ̀ɔ́ndɔ́ɔ́là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>peel (without instrument, as banana or peanut)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00292</id>
+	<word_id>00280</word_id>
+	<word>penis</word>
+	<french>pénis</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>βɔ̀lɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00293</id>
+	<word_id>00281</word_id>
+	<word>person</word>
+	<french>personne</french>
+	<nominal_prefix>ǹ /βà</nominal_prefix>
+	<item>nʰʊ̀</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00294</id>
+	<word_id>00282</word_id>
+	<word>pig</word>
+	<french>porc (sauvage), potamochère</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>gùlùβɛ̀</item>
+	<gram>N</gram>
+	<genre>9 ,10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00457</id>
+	<word_id>00283</word_id>
+	<word>pipe</word>
+	<french>pipe</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sɛ̀kɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre>5,6</genre>
+	<annotation>(for smoking)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00458</id>
+	<word_id>00283</word_id>
+	<word>pipe</word>
+	<french>pipe</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>tɛ̀ɛ̀mbà</item>
+	<gram>N</gram>
+	<genre>3,4</genre>
+	<annotation>(for smoking)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00295</id>
+	<word_id>00284</word_id>
+	<word>pit, hole</word>
+	<french>fosse, trou dans le sol</french>
+	<nominal_prefix>lì / mà</nominal_prefix>
+	<item>ínǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00298</id>
+	<word_id>00285</word_id>
+	<word>place</word>
+	<french>endroit, lieu</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>lùùŋgà</item>
+	<gram>N</gram>
+	<genre>7, 8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00299</id>
+	<word_id>00286</word_id>
+	<word>plant</word>
+	<french>planter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>hààmbà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00300</id>
+	<word_id>00288</word_id>
+	<word>pound grain</word>
+	<french>piler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pʊ̀ʊ́là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00301</id>
+	<word_id>00289</word_id>
+	<word>pour away</word>
+	<french>verser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìtà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00302</id>
+	<word_id>00290</word_id>
+	<word>pull</word>
+	<french>tirer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lùtà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00303</id>
+	<word_id>00291</word_id>
+	<word>push</word>
+	<french>pousser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃìíndɩ́kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00304</id>
+	<word_id>00292</word_id>
+	<word>put, set</word>
+	<french>mettre, poser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tʊ̀ʊ́là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00305</id>
+	<word_id>00293</word_id>
+	<word>quarrel</word>
+	<french>se disputer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìjɔ́ʤ̑á</item>
+	<gram>V refl</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00306</id>
+	<word_id>00294</word_id>
+	<word>rain</word>
+	<french>pluie</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bùlá</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00459</id>
+	<word_id>00296</word_id>
+	<word>reap</word>
+	<french>récolter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɩ̀mbʊ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>reap, harvest</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00307</id>
+	<word_id>00297</word_id>
+	<word>recover</word>
+	<french>guérir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00308</id>
+	<word_id>00298</word_id>
+	<word>red</word>
+	<french>rouge</french>
+	<nominal_prefix></nominal_prefix>
+	<item>làlʊ́kú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00309</id>
+	<word_id>00299</word_id>
+	<word>reed</word>
+	<french>roseau</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>dɛ̀tɛ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00311</id>
+	<word_id>00300</word_id>
+	<word>refuse to give</word>
+	<french>refuser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìmá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00310</id>
+	<word_id>00301</word_id>
+	<word>refuse, say no</word>
+	<french>refuser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kàánà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00312</id>
+	<word_id>00302</word_id>
+	<word>remember</word>
+	<french>se souvenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìzʊ̀kɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00313</id>
+	<word_id>00303</word_id>
+	<word>resemble</word>
+	<french>ressembler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìkɔ́lá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00314</id>
+	<word_id>00304</word_id>
+	<word>return</word>
+	<french>revenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ʃɔ̀ɔ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00315</id>
+	<word_id>00304</word_id>
+	<word>return</word>
+	<french>revenir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɔ̀dɔ̀kà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00316</id>
+	<word_id>00305</word_id>
+	<word>rib</word>
+	<french>côte</french>
+	<nominal_prefix>lʊ̀/m</nominal_prefix>
+	<item>βàzù</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00317</id>
+	<word_id>00306</word_id>
+	<word>right (hand)</word>
+	<french>(main) droite</french>
+	<nominal_prefix>βʊ́</nominal_prefix>
+	<item>ljɔ̀</item>
+	<gram>N</gram>
+	<genre>14</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00318</id>
+	<word_id>00307</word_id>
+	<word>ripen</word>
+	<french>mûrir</french>
+	<nominal_prefix>βʊ̀</nominal_prefix>
+	<item>pjɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre></genre>
+	<annotation>ripeness</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00319</id>
+	<word_id>00308</word_id>
+	<word>river</word>
+	<french>fleuve, rivière</french>
+	<nominal_prefix>m / mj</nominal_prefix>
+	<item>ɔ̀ɔ́ŋgɔ̌</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00320</id>
+	<word_id>00309</word_id>
+	<word>roast</word>
+	<french>rôtir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀ʧ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00321</id>
+	<word_id>00310</word_id>
+	<word>rooster</word>
+	<french>coq</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>hʊ̀ʊ́ŋgʊ́lʊ́mɛ́</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00322</id>
+	<word_id>00311</word_id>
+	<word>root</word>
+	<french>racine</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>zì</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00323</id>
+	<word_id>00312</word_id>
+	<word>rotten</word>
+	<french>pourri</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00324</id>
+	<word_id>00312</word_id>
+	<word>rotten</word>
+	<french>pourri</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀zùú</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00325</id>
+	<word_id>00313</word_id>
+	<word>run</word>
+	<french>courir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pɛ̀ɛ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00375</id>
+	<word_id>00314</word_id>
+	<word>saliva, spittle</word>
+	<french>salive</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>tɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00326</id>
+	<word_id>00315</word_id>
+	<word>salt</word>
+	<french>sel</french>
+	<nominal_prefix>m̀</nominal_prefix>
+	<item>nú</item>
+	<gram>N</gram>
+	<genre>3</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00327</id>
+	<word_id>00316</word_id>
+	<word>sand</word>
+	<french>sable</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>sɛ̀ɛ̀ŋgà</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00328</id>
+	<word_id>00316</word_id>
+	<word>sand</word>
+	<french>sable</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>tùùndɛ̀</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00329</id>
+	<word_id>00317</word_id>
+	<word>say</word>
+	<french>dire</french>
+	<nominal_prefix></nominal_prefix>
+	<item>jɔ̀ɔ̀mbà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00330</id>
+	<word_id>00318</word_id>
+	<word>see</word>
+	<french>voir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀ná</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00331</id>
+	<word_id>00319</word_id>
+	<word>seed</word>
+	<french>semence</french>
+	<nominal_prefix>m/m</nominal_prefix>
+	<item>bìjʊ́</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00332</id>
+	<word_id>00320</word_id>
+	<word>seize</word>
+	<french>saisir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>bàdá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00333</id>
+	<word_id>00320</word_id>
+	<word>seize</word>
+	<french>saisir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dìímà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>hold tightly,touch, arrest</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00334</id>
+	<word_id>00321</word_id>
+	<word>self</word>
+	<french>soi-même</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɛ̀nɛ́kɩ́lɩ́</item>
+	<gram>P/A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00335</id>
+	<word_id>00322</word_id>
+	<word>sell</word>
+	<french>vendre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sʊ̀lʊ́ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00336</id>
+	<word_id>00322</word_id>
+	<word>sell</word>
+	<french>vendre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gʊ̀ʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00337</id>
+	<word_id>00323</word_id>
+	<word>send</word>
+	<french>envoyer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tʊ̀má</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>send (s.o., or sth. with s.o. else)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00338</id>
+	<word_id>00323</word_id>
+	<word>send</word>
+	<french>envoyer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fìlá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>send sth., take sth. swh.</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00339</id>
+	<word_id>00325</word_id>
+	<word>seven</word>
+	<french>sept</french>
+	<nominal_prefix>m̀</nominal_prefix>
+	<item>púúŋgàtɩ́</item>
+	<gram>N</gram>
+	<genre>3</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00340</id>
+	<word_id>00326</word_id>
+	<word>sew</word>
+	<french>coudre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sùmá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00341</id>
+	<word_id>00327</word_id>
+	<word>shadow</word>
+	<french>ombre</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>dàkàá</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00342</id>
+	<word_id>00328</word_id>
+	<word>shame</word>
+	<french>honte</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>sɔ̀ní</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00343</id>
+	<word_id>00329</word_id>
+	<word>sharpen</word>
+	<french>aiguiser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nɔ̀ɔ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>sharpen, whet</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00344</id>
+	<word_id>00329</word_id>
+	<word>sharpen</word>
+	<french>aiguiser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pʊ̀ʊ́nzá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>sharpen, carve</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00460</id>
+	<word_id>00329</word_id>
+	<word>sharpen</word>
+	<french>aiguiser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɔ̀ɔ̀nʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>sharpen (to a point)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00345</id>
+	<word_id>00330</word_id>
+	<word>shave</word>
+	<french>se raser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>mɔ̀ɔ̀gà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00346</id>
+	<word_id>00331</word_id>
+	<word>sheep</word>
+	<french>mouton</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>hɔ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00347</id>
+	<word_id>00332</word_id>
+	<word>shield</word>
+	<french>bouclier</french>
+	<nominal_prefix>lʊ̀/mà</nominal_prefix>
+	<item>ŋʊ̀ʊ̀dà</item>
+	<gram>N</gram>
+	<genre>11, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00348</id>
+	<word_id>00334</word_id>
+	<word>shiver</word>
+	<french>trembler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dìtìmà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00349</id>
+	<word_id>00335</word_id>
+	<word>short</word>
+	<french>court</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gùhɩ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00350</id>
+	<word_id>00336</word_id>
+	<word>shoulder</word>
+	<french>épaule</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>βɛ̀gà</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00351</id>
+	<word_id>00337</word_id>
+	<word>sick (man)</word>
+	<french>malade</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lwìílɛ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00352</id>
+	<word_id>00338</word_id>
+	<word>sing</word>
+	<french>chanter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɩ̀mbá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00353</id>
+	<word_id>00339</word_id>
+	<word>sit</word>
+	<french>être assis</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɔ̀ɔ̀ŋgɔ̀màlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00354</id>
+	<word_id>00340</word_id>
+	<word>six</word>
+	<french>six</french>
+	<nominal_prefix></nominal_prefix>
+	<item>táándàtʊ́</item>
+	<gram>P NUM</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00355</id>
+	<word_id>00340</word_id>
+	<word>six</word>
+	<french>six</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sààtɩ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation>used for counting without reference to any specific object</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00356</id>
+	<word_id>00341</word_id>
+	<word>skin</word>
+	<french>peau (d'animal)</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kʊ̀ʊ́nzá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00357</id>
+	<word_id>00341</word_id>
+	<word>skin</word>
+	<french>peau (d'animal)</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>dɩ̀lɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>9,10</genre>
+	<annotation>skin, hide</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00358</id>
+	<word_id>00342</word_id>
+	<word>sky</word>
+	<french>ciel</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>lùùndɛ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00359</id>
+	<word_id>00343</word_id>
+	<word>slap, flat of hand</word>
+	<french>gifle</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>pɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00360</id>
+	<word_id>00344</word_id>
+	<word>slaughter</word>
+	<french>égorger</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sɩ̀ɩ́nzá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00361</id>
+	<word_id>00345</word_id>
+	<word>sleep</word>
+	<french>sommeil</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>tʊ̀lɔ̀ɔ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00362</id>
+	<word_id>00346</word_id>
+	<word>small</word>
+	<french>petit</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dɔ̀ɔ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00363</id>
+	<word_id>00349</word_id>
+	<word>smell bad</word>
+	<french>sentir mauvais, puer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nùùŋʰà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00364</id>
+	<word_id>00350</word_id>
+	<word>smell good</word>
+	<french>sentir bon</french>
+	<nominal_prefix></nominal_prefix>
+	<item>mɔ̀ɔ̀tà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00365</id>
+	<word_id>00351</word_id>
+	<word>smoke</word>
+	<french>fumée</french>
+	<nominal_prefix>lj/mààlj</nominal_prefix>
+	<item>ɔ̀ɔ̀ʧ̑í</item>
+	<gram>N</gram>
+	<genre>5, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00366</id>
+	<word_id>00352</word_id>
+	<word>snake</word>
+	<french>serpent</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>zɔ̀ká</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00367</id>
+	<word_id>00353</word_id>
+	<word>snore, snort</word>
+	<french>ronfler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɔ̀lɔ̀mà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00368</id>
+	<word_id>00355</word_id>
+	<word>sorceror</word>
+	<french>sorcier</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>sɔ̀zí</item>
+	<gram>N</gram>
+	<genre>1,2</genre>
+	<annotation>sorceror, wit , wizard</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00369</id>
+	<word_id>00356</word_id>
+	<word>spark</word>
+	<french>étincelle</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>sàsɩ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00370</id>
+	<word_id>00357</word_id>
+	<word>speak</word>
+	<french>parler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fùsà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00371</id>
+	<word_id>00358</word_id>
+	<word>spear</word>
+	<french>lance</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>ʧ̑ìmú</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00372</id>
+	<word_id>00360</word_id>
+	<word>spider</word>
+	<french>araignée</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>tàándʊ̌</item>
+	<gram>N</gram>
+	<genre>9a, 10a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00373</id>
+	<word_id>00361</word_id>
+	<word>spit</word>
+	<french>cracher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>swàá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00374</id>
+	<word_id>00361</word_id>
+	<word>spit</word>
+	<french>cracher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tùúgà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00376</id>
+	<word_id>00362</word_id>
+	<word>split, crack</word>
+	<french>fendre</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>làlà</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00377</id>
+	<word_id>00363</word_id>
+	<word>spot, speckle</word>
+	<french>tache</french>
+	<nominal_prefix>kà/tʊ̀</nominal_prefix>
+	<item>bàdɔ́</item>
+	<gram>N</gram>
+	<genre>12, 13</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00378</id>
+	<word_id>00364</word_id>
+	<word>spread</word>
+	<french>étendre</french>
+	<nominal_prefix></nominal_prefix>
+	<item>àníkɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>spread (in the sun for drying)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00379</id>
+	<word_id>00365</word_id>
+	<word>spring</word>
+	<french>source</french>
+	<nominal_prefix>lʊ̀/n</nominal_prefix>
+	<item>zwɩ̀ɩ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00380</id>
+	<word_id>00366</word_id>
+	<word>squeeze, milk</word>
+	<french>serrer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nìnà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00381</id>
+	<word_id>00367</word_id>
+	<word>stand</word>
+	<french>être debout</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɩ̀má</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00382</id>
+	<word_id>00368</word_id>
+	<word>star</word>
+	<french>étoile</french>
+	<nominal_prefix>n/n</nominal_prefix>
+	<item>sɔ̀ɔ̀ndàá</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00383</id>
+	<word_id>00369</word_id>
+	<word>steal</word>
+	<french>voler (dérober)</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ìβá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00384</id>
+	<word_id>00370</word_id>
+	<word>stick</word>
+	<french>bâton</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>làáŋgǎ</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00385</id>
+	<word_id>00371</word_id>
+	<word>stone</word>
+	<french>pierre</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>wɛ̀</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00386</id>
+	<word_id>00372</word_id>
+	<word>stranger, guest</word>
+	<french>étranger, hôte</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>gɛ̀nì</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00387</id>
+	<word_id>00373</word_id>
+	<word>strength</word>
+	<french>force</french>
+	<nominal_prefix>ŋ/ŋ</nominal_prefix>
+	<item>gùzù</item>
+	<gram>N</gram>
+	<genre>9, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00461</id>
+	<word_id>00374</word_id>
+	<word>stretch oneself</word>
+	<french>s'étirer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɔ̀lɔ̀lɔ́kú</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00388</id>
+	<word_id>00375</word_id>
+	<word>string</word>
+	<french>ficelle</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>zì</item>
+	<gram>N</gram>
+	<genre>14,6+</genre>
+	<annotation>string, thread</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00389</id>
+	<word_id>00377</word_id>
+	<word>suck</word>
+	<french>téter, sucer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ɔ̀ŋʰá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00390</id>
+	<word_id>00379</word_id>
+	<word>sugar cane</word>
+	<french>canne à sucre</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>gúβǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00391</id>
+	<word_id>00380</word_id>
+	<word>sun</word>
+	<french>soleil</french>
+	<nominal_prefix>lj/mààlj</nominal_prefix>
+	<item>ʊ̀ʊ̀βá</item>
+	<gram>N</gram>
+	<genre>5, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00392</id>
+	<word_id>00381</word_id>
+	<word>swallow</word>
+	<french>avaler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>mìlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00393</id>
+	<word_id>00382</word_id>
+	<word>swear</word>
+	<french>jurer, faire un serment</french>
+	<nominal_prefix></nominal_prefix>
+	<item>làhɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00394</id>
+	<word_id>00383</word_id>
+	<word>sweat</word>
+	<french>sueur</french>
+	<nominal_prefix>lʊ̀</nominal_prefix>
+	<item>ʊ̀jɩ́lɔ̌</item>
+	<gram>N</gram>
+	<genre>11</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00395</id>
+	<word_id>00384</word_id>
+	<word>sweep</word>
+	<french>balayer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pjàágʊ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00396</id>
+	<word_id>00385</word_id>
+	<word>sweet potato</word>
+	<french>patate douce</french>
+	<nominal_prefix>kà/mààkà</nominal_prefix>
+	<item>fù</item>
+	<gram>N</gram>
+	<genre>12, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00397</id>
+	<word_id>00386</word_id>
+	<word>swell</word>
+	<french>enfler</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βìímbá</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00398</id>
+	<word_id>00387</word_id>
+	<word>tail</word>
+	<french>queue</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>kɩ̀lá</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00399</id>
+	<word_id>00388</word_id>
+	<word>take off clothes</word>
+	<french>se déshabiller</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zùúlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation>take off clothes, undress</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00400</id>
+	<word_id>00389</word_id>
+	<word>taste</word>
+	<french>goûter</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɔ̀ɔ̀nʤ̑à</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00401</id>
+	<word_id>00390</word_id>
+	<word>tears</word>
+	<french>larmes</french>
+	<nominal_prefix>lw /m</nominal_prefix>
+	<item>ììsɔ́zǐ</item>
+	<gram>N</gram>
+	<genre>11, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00402</id>
+	<word_id>00391</word_id>
+	<word>ten</word>
+	<french>dix</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kʊ̀mí</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00403</id>
+	<word_id>00392</word_id>
+	<word>termite</word>
+	<french>termite</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>swàá</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00404</id>
+	<word_id>00393</word_id>
+	<word>testicle</word>
+	<french>testicule</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>tùúɲǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00405</id>
+	<word_id>00393</word_id>
+	<word>testicle</word>
+	<french>testicule</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>vjà</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00406</id>
+	<word_id>00394</word_id>
+	<word>thigh</word>
+	<french>cuisse</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>tàáŋgɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00407</id>
+	<word_id>00395</word_id>
+	<word>thirst</word>
+	<french>soif</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>nɔ̀ɔ́tǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00408</id>
+	<word_id>00396</word_id>
+	<word>thorn</word>
+	<french>épine</french>
+	<nominal_prefix>lì / mì</nominal_prefix>
+	<item>íŋʰwǎ</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00409</id>
+	<word_id>00397</word_id>
+	<word>three</word>
+	<french>trois</french>
+	<nominal_prefix></nominal_prefix>
+	<item>dátʊ́</item>
+	<gram>P NUM</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00410</id>
+	<word_id>00397</word_id>
+	<word>three</word>
+	<french>trois</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>jààtʊ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation>used for counting without reference to any specific object</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00411</id>
+	<word_id>00398</word_id>
+	<word>tick</word>
+	<french>tique</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>kùùndjàá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00412</id>
+	<word_id>00399</word_id>
+	<word>tie up</word>
+	<french>attacher</french>
+	<nominal_prefix></nominal_prefix>
+	<item>tàβɩ̀ɩ̀là</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00413</id>
+	<word_id>00400</word_id>
+	<word>today</word>
+	<french>aujourd'hui</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>lɛ̀ɛ̀lɔ̀ɔ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00414</id>
+	<word_id>00401</word_id>
+	<word>tomorrow</word>
+	<french>demain</french>
+	<nominal_prefix>mà</nominal_prefix>
+	<item>zʊ̀ʊ́lí</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00415</id>
+	<word_id>00401</word_id>
+	<word>tomorrow</word>
+	<french>demain</french>
+	<nominal_prefix>i</nominal_prefix>
+	<item>gɔ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>5</genre>
+	<annotation>tomorrow, yesterday</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00416</id>
+	<word_id>00403</word_id>
+	<word>tongue</word>
+	<french>langue</french>
+	<nominal_prefix>lʊ̀/n</nominal_prefix>
+	<item>dɩ̀mí</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00417</id>
+	<word_id>00404</word_id>
+	<word>tooth</word>
+	<french>dent</french>
+	<nominal_prefix>lì /mì</nominal_prefix>
+	<item>ìnɔ́</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00418</id>
+	<word_id>00405</word_id>
+	<word>tortoise</word>
+	<french>tortue (terrestre)</french>
+	<nominal_prefix>Ø/Ø</nominal_prefix>
+	<item>gùlùmààtì</item>
+	<gram>N</gram>
+	<genre>9a, 10a</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00419</id>
+	<word_id>00406</word_id>
+	<word>tree</word>
+	<french>arbre</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>tɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00420</id>
+	<word_id>00407</word_id>
+	<word>try</word>
+	<french>essayer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>gɛ̀mà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00421</id>
+	<word_id>00408</word_id>
+	<word>twins</word>
+	<french>jumeaux</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>βàsá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00422</id>
+	<word_id>00409</word_id>
+	<word>two</word>
+	<french>deux</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɩ́lɩ́</item>
+	<gram>P NUM</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00471</id>
+	<word_id>00409</word_id>
+	<word>two</word>
+	<french>deux</french>
+	<nominal_prefix>Ø</nominal_prefix>
+	<item>βɩ̀ɩ̀lɩ́</item>
+	<gram>N</gram>
+	<genre>9a</genre>
+	<annotation>used for counting without reference to any specific object</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00423</id>
+	<word_id>00410</word_id>
+	<word>unripe</word>
+	<french>pas mûr, cru</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɩ̀sɩ́</item>
+	<gram>A</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00424</id>
+	<word_id>00411</word_id>
+	<word>up, above</word>
+	<french>au-dessus</french>
+	<nominal_prefix>hìì</nominal_prefix>
+	<item>gʊ́ljǎ</item>
+	<gram>N</gram>
+	<genre>16+5</genre>
+	<annotation>lit. on the hill</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00425</id>
+	<word_id>00412</word_id>
+	<word>urinate</word>
+	<french>uriner, pisser</french>
+	<nominal_prefix></nominal_prefix>
+	<item>sùβààlà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00426</id>
+	<word_id>00413</word_id>
+	<word>urine</word>
+	<french>urine</french>
+	<nominal_prefix>màà</nominal_prefix>
+	<item>sù</item>
+	<gram>N</gram>
+	<genre>6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00427</id>
+	<word_id>00414</word_id>
+	<word>vein</word>
+	<french>veine, tendon</french>
+	<nominal_prefix>ŋw/mj</nominal_prefix>
+	<item>àànzí</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00428</id>
+	<word_id>00415</word_id>
+	<word>village</word>
+	<french>village</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>βààndà</item>
+	<gram>N</gram>
+	<genre>7, 8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00429</id>
+	<word_id>00415</word_id>
+	<word>village</word>
+	<french>village</french>
+	<nominal_prefix>kɩ̀/ʃì</nominal_prefix>
+	<item>zɛ̀ŋgɛ̀lɔ̀</item>
+	<gram>N</gram>
+	<genre>7, 8</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00430</id>
+	<word_id>00416</word_id>
+	<word>voice</word>
+	<french>voix</french>
+	<nominal_prefix>m̀ / mì</nominal_prefix>
+	<item>zwìí</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00431</id>
+	<word_id>00417</word_id>
+	<word>vomit</word>
+	<french>vomir</french>
+	<nominal_prefix></nominal_prefix>
+	<item>lʊ̀ká</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00432</id>
+	<word_id>00418</word_id>
+	<word>war</word>
+	<french>guerre</french>
+	<nominal_prefix>βʊ̀/mààβʊ̀</nominal_prefix>
+	<item>lʊ̀gʊ̀ʊ́</item>
+	<gram>N</gram>
+	<genre>14, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00433</id>
+	<word_id>00419</word_id>
+	<word>water</word>
+	<french>eau</french>
+	<nominal_prefix>m</nominal_prefix>
+	<item>ììnzɩ́</item>
+	<gram>N</gram>
+	<genre>6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00434</id>
+	<word_id>00420</word_id>
+	<word>we</word>
+	<french>nous</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ììsɛ́</item>
+	<gram>P SUBST</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00435</id>
+	<word_id>00421</word_id>
+	<word>wear</word>
+	<french>mettre un vêtement</french>
+	<nominal_prefix></nominal_prefix>
+	<item>zwàálà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00436</id>
+	<word_id>00422</word_id>
+	<word>well</word>
+	<french>puits</french>
+	<nominal_prefix>lw/mààlw</nominal_prefix>
+	<item>ììnzɩ́</item>
+	<gram>N</gram>
+	<genre>11, 6+</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00437</id>
+	<word_id>00423</word_id>
+	<word>what</word>
+	<french>quoi</french>
+	<nominal_prefix></nominal_prefix>
+	<item>kɩ̀ɩ́</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00438</id>
+	<word_id>00424</word_id>
+	<word>white</word>
+	<french>blanc</french>
+	<nominal_prefix></nominal_prefix>
+	<item>pɛ́</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00439</id>
+	<word_id>00425</word_id>
+	<word>white hair</word>
+	<french>cheveux blancs</french>
+	<nominal_prefix>lʊ̀/m</nominal_prefix>
+	<item>βwɩ̀ɩ́</item>
+	<gram>N</gram>
+	<genre>11, 10</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00440</id>
+	<word_id>00426</word_id>
+	<word>who</word>
+	<french>qui</french>
+	<nominal_prefix></nominal_prefix>
+	<item>nàání</item>
+	<gram>I</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00441</id>
+	<word_id>00427</word_id>
+	<word>wife</word>
+	<french>épouse</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>kɛ̀ɛ́</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00442</id>
+	<word_id>00428</word_id>
+	<word>wind</word>
+	<french>vent</french>
+	<nominal_prefix>mù / mì</nominal_prefix>
+	<item>jàgàá</item>
+	<gram>N</gram>
+	<genre>3, 4</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00443</id>
+	<word_id>00429</word_id>
+	<word>wing</word>
+	<french>aile</french>
+	<nominal_prefix>ì / mà</nominal_prefix>
+	<item>nànàá</item>
+	<gram>N</gram>
+	<genre>5, 6</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00444</id>
+	<word_id>00430</word_id>
+	<word>wipe</word>
+	<french>essuyer</french>
+	<nominal_prefix></nominal_prefix>
+	<item>fùtà</item>
+	<gram>V</gram>
+	<genre></genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00445</id>
+	<word_id>00432</word_id>
+	<word>you</word>
+	<french>vos</french>
+	<nominal_prefix></nominal_prefix>
+	<item>βɛ̀ɛ̀βɛ́</item>
+	<gram>P SUBST</gram>
+	<genre></genre>
+	<annotation>you (sg)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00446</id>
+	<word_id>00432</word_id>
+	<word>you</word>
+	<french>vos</french>
+	<nominal_prefix></nominal_prefix>
+	<item>ììŋwɛ́</item>
+	<gram>P SUBST</gram>
+	<genre></genre>
+	<annotation>you (pl)</annotation>
+	<cognacy></cognacy>
+</record>
+
+<record>
+	<id>00447</id>
+	<word_id>00433</word_id>
+	<word>young man</word>
+	<french>jeune homme</french>
+	<nominal_prefix>m̀/βà</nominal_prefix>
+	<item>sʊ̀ʊ̀mbà</item>
+	<gram>N</gram>
+	<genre>1, 2</genre>
+	<annotation></annotation>
+	<cognacy></cognacy>
+</record>
+
