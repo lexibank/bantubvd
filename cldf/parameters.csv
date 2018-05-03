@@ -1,431 +1,431 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1,abuse,1953,
-2,all,98,
-3,ancestor's spirit,53,
-4,animal,619,
-5,answer,1275,
-7,ant-hill,1873,
-8,arm,1673,
-9,armpit,1886,
-10,arrive,1387,
-11,arrow,977,
-12,ashes,646,
-13,ask for,1828,
-14,axe,677,
-15,back,1291,
-17,bad,1292,
-18,banana,868,
-19,banana-tree,1795,
-20,bark,1204,
-21,bathe,138,
-22,be afraid,1419,
-25,"be, become",1990,
-26,beard,678,
-27,become burnt,1428,
-28,become dry,1786,
-29,become full,1429,
-30,become large,479,
-32,bed,1663,
-33,bee,665,
-36,behind,1686,
-37,"belly, stomach",2114,
-38,below,1485,
-39,bewitch,118,
-40,big,1202,
-42,bird,937,
-43,bite,1403,
-45,black,163,
-46,bladder,1746,
-48,blood,946,
-50,boil,2493,
-51,bone,1394,
-52,boundary,1010,
-53,bow,994,
-54,brain,1583,
-55,branch,1531,
-56,break,680,
-57,break wind,1159,
-58,breast,1402,
-60,bring,692,
-61,bring up child,2134,
-62,build,1840,
-65,"burden, load",1679,
-66,burn,2102,
-67,bury,1719,
-68,bush,1683,
-69,buttock,834,
-70,buy,1869,
-71,calf of leg,498,
-72,call,1084,
-74,carry child on back,465,
-75,cat,1208,
-77,"cease, finish",2115,
-78,"chair, seat",1476,
-79,charcoal,1188,
-80,chase away,30,
-81,cheek,1730,
-82,chest,1592,
-83,child,2099,
-84,chin,1510,
-85,choose,1750,
-86,clan,302,
-87,clothes,1895,
-88,cloud,1489,
-89,cold,1287,
-90,come,1446,
-91,"complete, finish",1766,
-93,cooking pot,1462,
-94,corpse,767,
-95,cough,879,
-96,count,1420,
-97,country,1300,
-98,courtyard,4,
-100,"cry, wail",1839,
-101,cultivate,1541,
-102,cut,1432,
-103,dance,1879,
-104,day,1225,
-105,daytime,1225,
-107,destroy,681,
-108,die,1494,
-109,dig,1418,
-110,"diminish, grow less",1184,
-111,divide,1119,
-112,dog,2009,
-114,door,1567,
-115,draw water,1911,
-116,dream,1920,
-117,drink,1401,
-119,drum,908,
-121,dwell,363,
-122,ear,1247,
-123,eat,1336,
-124,egg,744,
-125,eight,1705,
-127,elephant,1290,
-128,excreta,47,
-129,extinguish,127,
-130,eye,1248,
-131,eyebrow,1173,
-132,eyelash,1540,
-133,face,1560,
-134,fall,1280,
-135,far,1406,
-136,"fat, oil",2551,
-137,"fat, thick",1279,
-138,fear,1419,
-139,feather,1201,
-140,few,1242,
-141,field,212,
-142,"fierce, sharp",1396,
-143,fight,1423,
-144,finger,1303,
-145,fingernail,1258,
-146,fire,221,
-147,"fireplace, hearth",185,
-148,firewood,10,
-149,fish,227,
-150,fist,1473,
-151,five,493,
-152,flower,239,
-153,fly,1504,
-155,foam,1768,
-156,follow,1085,
-157,forest,420,
-158,forget,1523,
-159,four,1500,
-160,"fowl, chicken",265,
-161,frog,503,
-162,fry,991,
-163,"gather (flowers, fruit)",7,
-164,get accustomed,1118,
+1,abuse,1953,ABUSE
+2,all,98,ALL
+3,ancestor's spirit,53,SPIRIT
+4,animal,619,ANIMAL
+5,answer,1275,ANSWER
+7,ant-hill,1873,ANTHILL
+8,arm,1673,ARM
+9,armpit,1886,ARMPIT
+10,arrive,1387,ARRIVE
+11,arrow,977,ARROW
+12,ashes,646,ASH
+13,ask for,1828,ASK (REQUEST)
+14,axe,677,AXE
+15,back,1291,BACK
+17,bad,1292,BAD
+18,banana,868,BANANA
+19,banana-tree,1795,BANANA TREE
+20,bark,1204,BARK
+21,bathe,138,BATHE
+22,be afraid,1419,FEAR (BE AFRAID)
+25,"be, become",1990,BECOME
+26,beard,678,BEARD
+27,become burnt,1428,BURNING
+28,become dry,1786,DRY UP
+29,become full,1429,FULL
+30,become large,479,GROW
+32,bed,1663,BED
+33,bee,665,BEE
+36,behind,1686,BEHIND
+37,"belly, stomach",2114,BELLY OR STOMACH
+38,below,1485,BELOW OR UNDER
+39,bewitch,118,BEWITCH
+40,big,1202,BIG
+42,bird,937,BIRD
+43,bite,1403,BITE
+45,black,163,BLACK
+46,bladder,1746,BLADDER
+48,blood,946,BLOOD
+50,boil,2493,BOIL
+51,bone,1394,BONE
+52,boundary,1010,BOUNDARY
+53,bow,994,BOW
+54,brain,1583,BRAIN
+55,branch,1531,BRANCH
+56,break,680,BREAK (DESTROY OR GET DESTROYED)
+57,break wind,1159,FART
+58,breast,1402,BREAST
+60,bring,692,BRING
+61,bring up child,2134,RAISE (A CHILD)
+62,build,1840,BUILD
+65,"burden, load",1679,LOAD
+66,burn,2102,BURN
+67,bury,1719,BURY
+68,bush,1683,BUSH
+69,buttock,834,BUTTOCKS
+70,buy,1869,BUY
+71,calf of leg,498,CALF OF LEG
+72,call,1084,CALL
+74,carry child on back,465,CARRY ON BACK
+75,cat,1208,CAT
+77,"cease, finish",2115,CEASE OR FINISH
+78,"chair, seat",1476,CHAIR
+79,charcoal,1188,CHARCOAL
+80,chase away,30,DISPEL
+81,cheek,1730,CHEEK
+82,chest,1592,CHEST
+83,child,2099,CHILD
+84,chin,1510,CHIN
+85,choose,1750,CHOOSE
+86,clan,302,CLAN
+87,clothes,1895,CLOTHES
+88,cloud,1489,CLOUD
+89,cold,1287,COLD
+90,come,1446,COME
+91,"complete, finish",1766,FINISH
+93,cooking pot,1462,POT
+94,corpse,767,CORPSE
+95,cough,879,COUGH
+96,count,1420,COUNT
+97,country,1300,COUNTRY
+98,courtyard,4,COURTYARD
+100,"cry, wail",1839,CRY
+101,cultivate,1541,CULTIVATE
+102,cut,1432,CUT
+103,dance,1879,DANCE
+104,day,1225,DAY (NOT NIGHT)
+105,daytime,1225,DAY (NOT NIGHT)
+107,destroy,681,DESTROY
+108,die,1494,DIE
+109,dig,1418,DIG
+110,"diminish, grow less",1184,DIMINISH
+111,divide,1119,DIVIDE
+112,dog,2009,DOG
+114,door,1567,DOOR
+115,draw water,1911,DRAW (WATER)
+116,dream,1920,DREAM (SOMETHING)
+117,drink,1401,DRINK
+119,drum,908,DRUM
+121,dwell,363,"DWELL (LIVE, RESIDE)"
+122,ear,1247,EAR
+123,eat,1336,EAT
+124,egg,744,EGG
+125,eight,1705,EIGHT
+127,elephant,1290,ELEPHANT
+128,excreta,47,EXCRETA
+129,extinguish,127,EXTINGUISH
+130,eye,1248,EYE
+131,eyebrow,1173,EYEBROW
+132,eyelash,1540,EYELASH
+133,face,1560,FACE
+134,fall,1280,FALL
+135,far,1406,FAR
+136,"fat, oil",2551,ORGANIC FAT OR OIL
+137,"fat, thick",1279,FAT (OBESE)
+138,fear,1419,FEAR (BE AFRAID)
+139,feather,1201,FEATHER
+140,few,1242,FEW
+141,field,212,FIELD
+142,"fierce, sharp",1396,SHARP
+143,fight,1423,FIGHT
+144,finger,1303,FINGER
+145,fingernail,1258,FINGERNAIL
+146,fire,221,FIRE
+147,"fireplace, hearth",185,FIREPLACE
+148,firewood,10,FIREWOOD
+149,fish,227,FISH
+150,fist,1473,FIST
+151,five,493,FIVE
+152,flower,239,FLOWER
+153,fly,1504,FLY (INSECT)
+155,foam,1768,FOAM
+156,follow,1085,FOLLOW
+157,forest,420,FOREST
+158,forget,1523,FORGET
+159,four,1500,FOUR
+160,"fowl, chicken",265,FOWL
+161,frog,503,FROG
+162,fry,991,FRY
+163,"gather (flowers, fruit)",7,GATHER
+164,get accustomed,1118,ACCUSTOM
 165,get intoxicated,,
-166,get lost,423,
-167,get wet,1726,
-168,"get, obtain",694,
-169,give,1447,
-170,give birth,1195,
-171,go,695,
-172,go in,749,
-173,"go out, go away",1752,
-174,goat,1502,
-175,God,1944,
-176,"good, beautiful",1035,
-178,grandfather,1383,
-179,grandmother,1496,
-180,"grasp, hold in arms",2104,
-181,grind,1033,
-183,hair,1040,
-184,hard,1884,
-185,head,1256,
-187,hear,1408,
-188,heart,1223,
-191,hide,2486,
-192,hip,1745,
-193,hit,1433,
-194,hoe,284,
-196,honey,942,
-197,horn,1393,
-198,house,1252,
-199,how many,822,
-200,hundred,1634,
-201,hunger,1864,
-202,hunt,1435,
-203,hunter,1053,
-204,husband,1200,
-205,hyena,1799,
-206,I,1209,
-207,in front of,1883,
-208,increase,1041,
-209,inside,1606,
-210,intestines,1991,
-213,jealousy,2016,
-215,kidney,489,
-216,kill,1417,
-217,knee,1371,
-218,kneel,66,
-219,knife,1352,
-220,know,1410,
-221,"lake, (pool)",624,
-222,laugh,1355,
-224,leaf,628,
-225,learn,504,
-226,"leave, go away",1752,
-227,left (hand),244,
-228,leg,1297,
-229,lick,319,
-230,"lie down, sleep",2116,
-232,lightning,1654,
-233,lip,478,
-234,listen,1608,
-235,liver,1224,
-237,long,1203,
-239,look for,1468,
-240,louse,1392,
-241,"love, want",2117,
-242,lung,688,
-243,maize,506,
-244,many,1198,
-245,marry,203,
-246,meat,634,
-247,medicine,1372,
-248,"medicine man, doctor",394,
-249,meet,1831,
-250,milk,635,
-251,moon,1313,
-252,mosquito,1509,
-254,"mountain, (hill)",2118,
-255,mouth,674,
-257,mud,640,
-258,name,1405,
-259,nape,1347,
-260,navel,1838,
-262,neck,1333,
-264,night,1233,
-265,nine,1483,
-266,nose,1221,
-268,old person,725,
-270,one,1493,
-271,open,1156,
-273,outside,762,
-274,overcome,1999,
-276,"pass, surpass",402,
-277,path,2252,
-278,pay,718,
-279,peel,275,
-280,penis,1222,
-282,pig,1337,
-283,pipe,1124,
-284,"pit, hole",1667,
-285,place,723,
-286,plant,653,
+166,get lost,423,GET LOST
+167,get wet,1726,WET
+168,"get, obtain",694,GET
+169,give,1447,GIVE
+170,give birth,1195,GIVE BIRTH
+171,go,695,GO
+172,go in,749,ENTER
+173,"go out, go away",1752,LEAVE
+174,goat,1502,GOAT
+175,God,1944,GOD
+176,"good, beautiful",1035,GOOD
+178,grandfather,1383,GRANDFATHER
+179,grandmother,1496,GRANDMOTHER
+180,"grasp, hold in arms",2104,HOLD OR TAKE
+181,grind,1033,GRIND
+183,hair,1040,HAIR
+184,hard,1884,HARD
+185,head,1256,HEAD
+187,hear,1408,HEAR
+188,heart,1223,HEART
+191,hide,2486,HIDE
+192,hip,1745,HIP
+193,hit,1433,HIT
+194,hoe,284,HOE
+196,honey,942,HONEY
+197,horn,1393,HORN (ANATOMY)
+198,house,1252,HOUSE
+199,how many,822,HOW MANY
+200,hundred,1634,HUNDRED
+201,hunger,1864,HUNGER
+202,hunt,1435,HUNT
+203,hunter,1053,HUNTER
+204,husband,1200,HUSBAND
+205,hyena,1799,HYENA
+206,I,1209,I
+207,in front of,1883,IN FRONT OF
+208,increase,1041,INCREASE
+209,inside,1606,INSIDE
+210,intestines,1991,INTESTINES
+213,jealousy,2016,JEALOUSY
+215,kidney,489,KIDNEY
+216,kill,1417,KILL
+217,knee,1371,KNEE
+218,kneel,66,KNEEL
+219,knife,1352,KNIFE
+220,know,1410,KNOW (SOMETHING)
+221,"lake, (pool)",624,LAKE
+222,laugh,1355,LAUGH
+224,leaf,628,LEAF
+225,learn,504,LEARN
+226,"leave, go away",1752,LEAVE
+227,left (hand),244,LEFT
+228,leg,1297,LEG
+229,lick,319,LICK
+230,"lie down, sleep",2116,REST OR SLEEP
+232,lightning,1654,LIGHTNING
+233,lip,478,LIP
+234,listen,1608,LISTEN
+235,liver,1224,LIVER
+237,long,1203,LONG
+239,look for,1468,LOOK FOR
+240,louse,1392,LOUSE
+241,"love, want",2117,DESIRE
+242,lung,688,LUNG
+243,maize,506,MAIZE
+244,many,1198,MANY
+245,marry,203,MARRY
+246,meat,634,MEAT
+247,medicine,1372,MEDICINE
+248,"medicine man, doctor",394,SHAMAN (FOLK HEALER)
+249,meet,1831,MEET
+250,milk,635,MILK
+251,moon,1313,MOON
+252,mosquito,1509,MOSQUITO
+254,"mountain, (hill)",2118,MOUNTAIN OR HILL
+255,mouth,674,MOUTH
+257,mud,640,MUD
+258,name,1405,NAME
+259,nape,1347,NAPE (OF NECK)
+260,navel,1838,NAVEL
+262,neck,1333,NECK
+264,night,1233,NIGHT
+265,nine,1483,NINE
+266,nose,1221,NOSE
+268,old person,725,OLD PERSON
+270,one,1493,ONE
+271,open,1156,OPEN
+273,outside,762,OUTSIDE
+274,overcome,1999,OVERCOME
+276,"pass, surpass",402,SURPASS
+277,path,2252,PATH
+278,pay,718,PAY
+279,peel,275,PEEL
+280,penis,1222,PENIS
+282,pig,1337,PIG
+283,pipe,1124,PIPE
+284,"pit, hole",1667,HOLE
+285,place,723,PLACE (POSITION)
+286,plant,653,PLANT (VEGETATION)
 288,pound grain,,
-289,pour away,1487,
-290,pull,1455,
-291,push,1452,
-292,"put, set",998,
-293,quarrel,1848,
-294,rain,658,
-295,raphia palm,1181,
-296,reap,1827,
-297,recover,1978,
-298,red,156,
-299,reed,659,
-301,"refuse, say no",49,
-304,return,581,
-305,rib,801,
-307,ripen,179,
-308,river,666,
-309,roast,1962,
-310,rooster,1511,
-311,root,670,
-312,rotten,1728,
-313,run,1519,
-314,"saliva, spittle",1503,
-315,salt,1274,
-316,sand,671,
-317,say,1458,
-318,see,1409,
-319,seed,714,
-320,seize,855,
-322,sell,1571,
-323,send,1127,
-324,set out to dry,2015,
-325,seven,1704,
-326,sew,1457,
-328,shame,1776,
-329,sharpen,251,
-330,shave,231,
-331,sheep,1331,
-332,shield,1064,
-334,shiver,52,
-335,short,1645,
-336,shoulder,1482,
-337,sick (man),1847,
-338,sing,1261,
-340,six,1703,
-341,skin,763,
-342,sky,1732,
+289,pour away,1487,POUR
+290,pull,1455,PULL
+291,push,1452,PUSH
+292,"put, set",998,PUT
+293,quarrel,1848,QUARREL
+294,rain,658,RAIN (PRECIPITATION)
+295,raphia palm,1181,PALM TREE
+296,reap,1827,HARVEST CROPS
+297,recover,1978,RECOVER
+298,red,156,RED
+299,reed,659,REED
+301,"refuse, say no",49,REFUSE
+304,return,581,COME BACK
+305,rib,801,RIB
+307,ripen,179,RIPEN
+308,river,666,RIVER
+309,roast,1962,ROAST (SOMETHING)
+310,rooster,1511,ROOSTER
+311,root,670,ROOT
+312,rotten,1728,ROTTEN
+313,run,1519,RUN
+314,"saliva, spittle",1503,SALIVA
+315,salt,1274,SALT
+316,sand,671,SAND
+317,say,1458,SAY
+318,see,1409,SEE
+319,seed,714,SEED
+320,seize,855,SEIZE
+322,sell,1571,SELL
+323,send,1127,SEND
+324,set out to dry,2015,MAKE DRY
+325,seven,1704,SEVEN
+326,sew,1457,SEW
+328,shame,1776,SHAME
+329,sharpen,251,SHARPEN (SOMETHING)
+330,shave,231,SHAVE
+331,sheep,1331,SHEEP
+332,shield,1064,SHIELD
+334,shiver,52,SHIVER
+335,short,1645,SHORT
+336,shoulder,1482,SHOULDER
+337,sick (man),1847,SICK
+338,sing,1261,SING
+340,six,1703,SIX
+341,skin,763,SKIN
+342,sky,1732,SKY
 343,"slap, flat of hand",,
-344,slaughter,1796,
-345,sleep,1585,
-346,small,1246,
-349,smell bad,1587,
-351,smoke,778,
-352,snake,730,
-353,"snore, snort",1983,
-355,sorceror,823,
-356,spark,518,
-357,speak,1623,
-358,spear,945,
-359,sperm,1505,
-360,spider,843,
-361,spit,1440,
-362,"split, crack",1437,
-364,spread,38,
-365,spring,849,
-367,stand,1442,
-368,star,1430,
-369,steal,713,
-370,stick,1295,
-371,stone,857,
-372,"stranger, guest",791,
-373,strength,202,
-375,string,362,
-377,suck,1421,
-378,"suffer, bear patiently",833,
-379,sugar cane,146,
-380,sun,1343,
-381,swallow,897,
-382,swear,1939,
-383,sweat,2458,
-384,sweep,230,
-385,sweet potato,159,
-386,swell,1573,
-387,tail,1220,
-388,take off clothes,1755,
-389,taste,21,
-390,tears,1651,
-391,ten,1515,
-392,termite,883,
-393,testicle,797,
-394,thigh,800,
-396,thorn,124,
-397,three,492,
-399,tie up,1917,
-400,today,1283,
-401,tomorrow,1329,
-403,tongue,1205,
-404,tooth,1380,
-405,tortoise,895,
-406,tree,906,
-407,try,1812,
-408,twins,1005,
-409,two,1498,
-410,unripe,1958,
-411,"up, above",1591,
-412,urinate,592,
-413,urine,1142,
-414,vein,1924,
-415,village,930,
-416,voice,1363,
-417,vomit,1278,
-418,war,935,
-419,water,948,
-420,we,1212,
-423,what,1236,
-424,white,1335,
-426,who,1235,
-427,wife,1199,
-428,wind,960,
-429,wing,1257,
-430,wipe,1454,
-431,yesterday,1174,
-432,you,1215,
-433,young man,76,
+344,slaughter,1796,SLAUGHTER
+345,sleep,1585,SLEEP
+346,small,1246,SMALL
+349,smell bad,1587,SMELL (STINK)
+351,smoke,778,SMOKE (EXHAUST)
+352,snake,730,SNAKE
+353,"snore, snort",1983,SNORE
+355,sorceror,823,SORCERER
+356,spark,518,SPARK
+357,speak,1623,SPEAK
+358,spear,945,SPEAR
+359,sperm,1505,SPERM
+360,spider,843,SPIDER
+361,spit,1440,SPIT
+362,"split, crack",1437,SPLIT
+364,spread,38,SPREAD OUT
+365,spring,849,SPRING (OF WATER)
+367,stand,1442,STAND
+368,star,1430,STAR
+369,steal,713,STEAL
+370,stick,1295,STICK
+371,stone,857,STONE
+372,"stranger, guest",791,STRANGER
+373,strength,202,STRENGTH
+375,string,362,STRING
+377,suck,1421,SUCK
+378,"suffer, bear patiently",833,ENDURE
+379,sugar cane,146,SUGAR CANE
+380,sun,1343,SUN
+381,swallow,897,SWALLOW
+382,swear,1939,SWEAR
+383,sweat,2458,PERSPIRE OR SWEAT
+384,sweep,230,SWEEP
+385,sweet potato,159,SWEET POTATO
+386,swell,1573,SWELL
+387,tail,1220,TAIL
+388,take off clothes,1755,UNDRESS
+389,taste,21,TASTE (SOMETHING)
+390,tears,1651,TEAR (OF EYE)
+391,ten,1515,TEN
+392,termite,883,TERMITE
+393,testicle,797,TESTICLES
+394,thigh,800,THIGH
+396,thorn,124,THORN
+397,three,492,THREE
+399,tie up,1917,TIE
+400,today,1283,TODAY
+401,tomorrow,1329,TOMORROW
+403,tongue,1205,TONGUE
+404,tooth,1380,TOOTH
+405,tortoise,895,TORTOISE
+406,tree,906,TREE
+407,try,1812,TRY
+408,twins,1005,TWINS
+409,two,1498,TWO
+410,unripe,1958,UNRIPE
+411,"up, above",1591,UP
+412,urinate,592,PISS
+413,urine,1142,URINE
+414,vein,1924,VEIN
+415,village,930,VILLAGE
+416,voice,1363,VOICE
+417,vomit,1278,VOMIT
+418,war,935,WAR
+419,water,948,WATER
+420,we,1212,WE
+423,what,1236,WHAT
+424,white,1335,WHITE
+426,who,1235,WHO
+427,wife,1199,WIFE
+428,wind,960,WIND
+429,wing,1257,WING
+430,wipe,1454,WIPE
+431,yesterday,1174,YESTERDAY
+432,you,1215,THOU
+433,young man,76,YOUNG MAN
 435,come from,,
 6,answer a call,,
-16,backbone,805,
-23,be lame,320,
-24,be satiated,106,
-34,beer,1639,
-41,bile,1780,
-44,bitter,887,
-47,blind person,457,
-49,body,1480,
-59,breath,870,
-63,bull,1008,
-64,bulrush millet,931,
-76,cattle,1153,
-92,cook,1100,
-99,cross river,1742,
-106,defecate,676,
-113,donkey,1862,
-118,drizzle,1016,
-120,dust,2,
-126,elbow,981,
-154,"fly, to",1441,
-177,grain,605,
+16,backbone,805,SPINE
+23,be lame,320,LAME
+24,be satiated,106,SATIATED
+34,beer,1639,BEER
+41,bile,1780,BILE
+44,bitter,887,BITTER
+47,blind person,457,BLIND PERSON
+49,body,1480,BODY
+59,breath,870,BREATH
+63,bull,1008,BULL
+64,bulrush millet,931,MILLET
+76,cattle,1153,CATTLE
+92,cook,1100,COOK (SOMETHING)
+99,cross river,1742,TRAVERSE
+106,defecate,676,SHIT (DEFECATE)
+113,donkey,1862,DONKEY
+118,drizzle,1016,DRIZZLE
+120,dust,2,DUST
+126,elbow,981,ELBOW
+154,"fly, to",1441,FLY (MOVE THROUGH AIR)
+177,grain,605,GRAIN
 186,headpad,,
 189,hearthstone,,
-190,heel,980,
-211,itch,148,
-212,jaw,798,
+190,heel,980,HEEL
+211,itch,148,ITCH
+212,jaw,798,JAW
 214,keep livestock,,
-223,lazy,1564,
-231,light,630,
-236,locust,810,
-238,look at,1819,
-253,mould pottery,1166,
-256,move away,229,
-261,near,1942,
-263,new,1231,
-272,ours,780,
-275,palm of hand,1183,
-281,person,683,
-302,remember,707,
-303,resemble,1777,
-306,right (hand),1019,
-321,self,1993,
-327,shadow,1388,
-333,shin,186,
-339,sit,1416,
-347,smallpox,1054,
-354,soot,830,
-366,"squeeze, milk",93,
-376,stutter,1866,
-395,thirst,848,
-398,tick,1527,
-421,wear,976,
-422,well,954,
+223,lazy,1564,LAZY
+231,light,630,LIGHT (RADIATION)
+236,locust,810,LOCUST
+238,look at,1819,LOOK
+253,mould pottery,1166,MOULD
+256,move away,229,MOVE AWAY
+261,near,1942,NEAR
+263,new,1231,NEW
+272,ours,780,OUR
+275,palm of hand,1183,PALM OF HAND
+281,person,683,PERSON
+302,remember,707,REMEMBER
+303,resemble,1777,RESEMBLE
+306,right (hand),1019,RIGHT
+321,self,1993,SELF
+327,shadow,1388,SHADE
+333,shin,186,SHIN
+339,sit,1416,SIT
+347,smallpox,1054,SMALLPOX
+354,soot,830,SOOT
+366,"squeeze, milk",93,DRAW MILK
+376,stutter,1866,STUTTER
+395,thirst,848,THIRST
+398,tick,1527,TICK
+421,wear,976,WEAR
+422,well,954,WELL
 425,white hair,,
-434,yours,732,
-31,"become large, grow up",479,
-195,hole,1667,
+434,yours,732,YOUR (SINGULAR)
+31,"become large, grow up",479,GROW
+195,hole,1667,HOLE
 300,refuse to give,,
-350,smell good,376,
-363,"spot, speckle",519,
-374,stretch oneself,214,
-35,beer bananas,2251,
-348,smell,2124,
-73,carry (child),1123,
+350,smell good,376,FRAGRANT
+363,"spot, speckle",519,SPOT
+374,stretch oneself,214,STRETCH
+35,beer bananas,2251,BEER BANANA
+348,smell,2124,SMELL
+73,carry (child),1123,PREGNANT

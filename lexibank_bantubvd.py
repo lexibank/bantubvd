@@ -36,7 +36,7 @@ class Dataset(abvd.BVD):
         bibtexes = self.raw.read_bib()
 
         with self.cldf as ds:
-            for wl in self.iter_wordlists({}):
+            for wl in self.iter_wordlists({}, kw['log']):
                 citekeys = SOURCES[wl.id]
                 wl.to_cldf(
                     ds,
