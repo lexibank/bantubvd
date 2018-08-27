@@ -26,16 +26,16 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 - **Varieties:** 10
 - **Concepts:** 430
-- **Lexemes:** 4,256
+- **Lexemes:** 4,257
 - **Synonymy:** 1.09
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 4,256
+- **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
 
 ## Possible Improvements:
 
-- Entries missing sources: 492/4256 (11.56%)
-- Entries missing concepts: 0/4256 (0.00%)
 
+
+- Entries missing sources: 492/4257 (11.56%)

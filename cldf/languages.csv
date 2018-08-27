@@ -1,12 +1,12 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family,author,url,typedby,checkedby,notes
+1,Kinyamwezi F22,nyam1276,,nym,,,Maganga and Schadeberg 1992,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=1,Gisèle Teil-Dautrey,,"Data from Maganga and Schadeberg 1992 : Kinyamwezi grammar, texts, vocabulary. Rüdiger Köppe Verlag, Köln"
+2,Bukusu E.31c,buku1249,,bxk,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=2,Gisèle Teil-Dautrey,,"Khisa, Wong and Lowe (1998), hosted in CBOLD"
 3,Koyo C.24,koyo1242,,koh,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=3,Gisèle Teil-Dautrey,,Data extracted from Koyo dictionary by Gazania and Hyman 1996 hosted by CBOLD
+4,Bemba M.42,bemb1257,,bem,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=4,Gisèle Teil-Dautrey,,"Data extracted from Mann (1995), available on CBOLD"
+5,Basaa A.43a,basa1284,,bas,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=5,Gisèle Teil-Dautrey,,"Data from Teil-Dautrey (1994) hosted in CBOLD, and from Lemb et de Gastines (1973) ""Dictionnaire Basaa-français""."
 6,Asu G.22,asut1235,,asa,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=6,Gisèle Teil-Dautrey,,"Data from G. Philippson, Kagaya, Kaehler-Meyer, Hohenberger. 
 NTIA = non tonal information available"
-1,Kinyamwezi F22,nyam1276,,nym,,,Maganga and Schadeberg 1992,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=1,Gisèle Teil-Dautrey,,"Data from Maganga and Schadeberg 1992 : Kinyamwezi grammar, texts, vocabulary. Rüdiger Köppe Verlag, Köln"
-5,Basaa A.43a,basa1284,,bas,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=5,Gisèle Teil-Dautrey,,"Data from Teil-Dautrey (1994) hosted in CBOLD, and from Lemb et de Gastines (1973) ""Dictionnaire Basaa-français""."
 7,Rumanyo (Gciriku) K.38,diri1252,,diu,,,"Gisèle Teil-Dautrey / Data from Möhlig and Shiyaka-Mberema (2005) : ""A Dictionary of the Rumanyo Language""",https://abvd.shh.mpg.de/bantu/bantu/language.php?id=7,Gisèle Teil-Dautrey,,
-2,Bukusu E.31c,buku1249,,bxk,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=2,Gisèle Teil-Dautrey,,"Khisa, Wong and Lowe (1998), hosted in CBOLD"
-9,Tswana S.30,tswa1253,,tsn,,,"Gisèle Teil-Dautrey / Data from Creissels, available on CBOLD",https://abvd.shh.mpg.de/bantu/bantu/language.php?id=9,Gisèle Teil-Dautrey,,
-4,Bemba M.42,bemb1257,,bem,,,Gisèle Teil-Dautrey,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=4,Gisèle Teil-Dautrey,,"Data extracted from Mann (1995), available on CBOLD"
 8,Lega D.25,lega1249,,lea,,,Gisèle Teil-Dautrey / Data from Botne 1994 available on CBOLD,https://abvd.shh.mpg.de/bantu/bantu/language.php?id=8,Gisèle Teil-Dautrey,,
+9,Tswana S.30,tswa1253,,tsn,,,"Gisèle Teil-Dautrey / Data from Creissels, available on CBOLD",https://abvd.shh.mpg.de/bantu/bantu/language.php?id=9,Gisèle Teil-Dautrey,,
 10,Yao P.21,yaoo1241,,yao,,,"Gisèle Teil-Dautrey / Data from Ngunga (1997), available on CBOLD.",https://abvd.shh.mpg.de/bantu/bantu/language.php?id=10,Gisèle Teil-Dautrey,,Attention : no lexical tone for verbs

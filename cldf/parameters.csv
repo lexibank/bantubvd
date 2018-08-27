@@ -14,19 +14,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 14,axe,677,AXE
 15,back,1291,BACK
 17,bad,1292,BAD
-18,banana,868,BANANA
-19,banana-tree,1795,BANANA TREE
 20,bark,1204,BARK
 21,bathe,138,BATHE
 22,be afraid,1419,FEAR (BE AFRAID)
+23,be lame,320,LAME
+24,be satiated,106,SATIATED
 25,"be, become",1990,BECOME
 26,beard,678,BEARD
 27,become burnt,1428,BURNING
 28,become dry,1786,DRY UP
 29,become full,1429,FULL
-30,become large,479,GROW
+31,"become large, grow up",479,GROW
 32,bed,1663,BED
 33,bee,665,BEE
+34,beer,1639,BEER
 36,behind,1686,BEHIND
 37,"belly, stomach",2114,BELLY OR STOMACH
 38,below,1485,BELOW OR UNDER
@@ -34,9 +35,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 40,big,1202,BIG
 42,bird,937,BIRD
 43,bite,1403,BITE
+44,bitter,887,BITTER
 45,black,163,BLACK
 46,bladder,1746,BLADDER
+47,blind person,457,BLIND PERSON
 48,blood,946,BLOOD
+49,body,1480,BODY
 50,boil,2493,BOIL
 51,bone,1394,BONE
 52,boundary,1010,BOUNDARY
@@ -44,11 +48,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 54,brain,1583,BRAIN
 55,branch,1531,BRANCH
 56,break,680,BREAK (DESTROY OR GET DESTROYED)
-57,break wind,1159,FART
 58,breast,1402,BREAST
+59,breath,870,BREATH
 60,bring,692,BRING
 61,bring up child,2134,RAISE (A CHILD)
 62,build,1840,BUILD
+63,bull,1008,BULL
+64,bulrush millet,931,MILLET
 65,"burden, load",1679,LOAD
 66,burn,2102,BURN
 67,bury,1719,BURY
@@ -59,6 +65,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 72,call,1084,CALL
 74,carry child on back,465,CARRY ON BACK
 75,cat,1208,CAT
+76,cattle,1153,CATTLE
 77,"cease, finish",2115,CEASE OR FINISH
 78,"chair, seat",1476,CHAIR
 79,charcoal,1188,CHARCOAL
@@ -74,36 +81,39 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 89,cold,1287,COLD
 90,come,1446,COME
 91,"complete, finish",1766,FINISH
+92,cook,1100,COOK (SOMETHING)
 93,cooking pot,1462,POT
 94,corpse,767,CORPSE
 95,cough,879,COUGH
 96,count,1420,COUNT
 97,country,1300,COUNTRY
 98,courtyard,4,COURTYARD
+99,cross river,1742,TRAVERSE
 100,"cry, wail",1839,CRY
 101,cultivate,1541,CULTIVATE
 102,cut,1432,CUT
 103,dance,1879,DANCE
 104,day,1225,DAY (NOT NIGHT)
 105,daytime,1225,DAY (NOT NIGHT)
-107,destroy,681,DESTROY
+106,defecate,676,SHIT (DEFECATE)
 108,die,1494,DIE
 109,dig,1418,DIG
-110,"diminish, grow less",1184,DIMINISH
 111,divide,1119,DIVIDE
 112,dog,2009,DOG
+113,donkey,1862,DONKEY
 114,door,1567,DOOR
 115,draw water,1911,DRAW (WATER)
 116,dream,1920,DREAM (SOMETHING)
 117,drink,1401,DRINK
 119,drum,908,DRUM
+120,dust,2,DUST
 121,dwell,363,"DWELL (LIVE, RESIDE)"
 122,ear,1247,EAR
 123,eat,1336,EAT
 124,egg,744,EGG
 125,eight,1705,EIGHT
+126,elbow,981,ELBOW
 127,elephant,1290,ELEPHANT
-128,excreta,47,EXCRETA
 129,extinguish,127,EXTINGUISH
 130,eye,1248,EYE
 131,eyebrow,1173,EYEBROW
@@ -129,6 +139,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 151,five,493,FIVE
 152,flower,239,FLOWER
 153,fly,1504,FLY (INSECT)
+154,"fly, to",1441,FLY (MOVE THROUGH AIR)
 155,foam,1768,FOAM
 156,follow,1085,FOLLOW
 157,forest,420,FOREST
@@ -140,7 +151,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 163,"gather (flowers, fruit)",7,GATHER
 164,get accustomed,1118,ACCUSTOM
 165,get intoxicated,,
-166,get lost,423,GET LOST
 167,get wet,1726,WET
 168,"get, obtain",694,GET
 169,give,1447,GIVE
@@ -158,12 +168,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 183,hair,1040,HAIR
 184,hard,1884,HARD
 185,head,1256,HEAD
+186,headpad,,
 187,hear,1408,HEAR
 188,heart,1223,HEART
+189,hearthstone,,
+190,heel,980,HEEL
 191,hide,2486,HIDE
 192,hip,1745,HIP
 193,hit,1433,HIT
 194,hoe,284,HOE
+195,hole,1667,HOLE
 196,honey,942,HONEY
 197,horn,1393,HORN (ANATOMY)
 198,house,1252,HOUSE
@@ -175,19 +189,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 204,husband,1200,HUSBAND
 205,hyena,1799,HYENA
 206,I,1209,I
-207,in front of,1883,IN FRONT OF
 208,increase,1041,INCREASE
 209,inside,1606,INSIDE
 210,intestines,1991,INTESTINES
+212,jaw,798,JAW
 213,jealousy,2016,JEALOUSY
+214,keep livestock,,
 215,kidney,489,KIDNEY
 216,kill,1417,KILL
 217,knee,1371,KNEE
-218,kneel,66,KNEEL
 219,knife,1352,KNIFE
 220,know,1410,KNOW (SOMETHING)
 221,"lake, (pool)",624,LAKE
 222,laugh,1355,LAUGH
+223,lazy,1564,LAZY
 224,leaf,628,LEAF
 225,learn,504,LEARN
 226,"leave, go away",1752,LEAVE
@@ -195,11 +210,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 228,leg,1297,LEG
 229,lick,319,LICK
 230,"lie down, sleep",2116,REST OR SLEEP
+231,light,630,LIGHT (RADIATION)
 232,lightning,1654,LIGHTNING
 233,lip,478,LIP
 234,listen,1608,LISTEN
 235,liver,1224,LIVER
+236,locust,810,LOCUST
 237,long,1203,LONG
+238,look at,1819,LOOK
 239,look for,1468,LOOK FOR
 240,louse,1392,LOUSE
 241,"love, want",2117,DESIRE
@@ -214,26 +232,32 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 250,milk,635,MILK
 251,moon,1313,MOON
 252,mosquito,1509,MOSQUITO
+253,mould pottery,1166,MOULD
 254,"mountain, (hill)",2118,MOUNTAIN OR HILL
 255,mouth,674,MOUTH
+256,move away,229,MOVE AWAY
 257,mud,640,MUD
 258,name,1405,NAME
 259,nape,1347,NAPE (OF NECK)
 260,navel,1838,NAVEL
+261,near,1942,NEAR
 262,neck,1333,NECK
+263,new,1231,NEW
 264,night,1233,NIGHT
 265,nine,1483,NINE
 266,nose,1221,NOSE
 268,old person,725,OLD PERSON
 270,one,1493,ONE
 271,open,1156,OPEN
+272,ours,780,OUR
 273,outside,762,OUTSIDE
 274,overcome,1999,OVERCOME
-276,"pass, surpass",402,SURPASS
+275,palm of hand,1183,PALM OF HAND
 277,path,2252,PATH
 278,pay,718,PAY
 279,peel,275,PEEL
 280,penis,1222,PENIS
+281,person,683,PERSON
 282,pig,1337,PIG
 283,pipe,1124,PIPE
 284,"pit, hole",1667,HOLE
@@ -246,14 +270,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 292,"put, set",998,PUT
 293,quarrel,1848,QUARREL
 294,rain,658,RAIN (PRECIPITATION)
-295,raphia palm,1181,PALM TREE
 296,reap,1827,HARVEST CROPS
 297,recover,1978,RECOVER
 298,red,156,RED
 299,reed,659,REED
+300,refuse to give,,
 301,"refuse, say no",49,REFUSE
+302,remember,707,REMEMBER
+303,resemble,1777,RESEMBLE
 304,return,581,COME BACK
 305,rib,801,RIB
+306,right (hand),1019,RIGHT
 307,ripen,179,RIPEN
 308,river,666,RIVER
 309,roast,1962,ROAST (SOMETHING)
@@ -268,11 +295,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 318,see,1409,SEE
 319,seed,714,SEED
 320,seize,855,SEIZE
+321,self,1993,SELF
 322,sell,1571,SELL
 323,send,1127,SEND
-324,set out to dry,2015,MAKE DRY
 325,seven,1704,SEVEN
 326,sew,1457,SEW
+327,shadow,1388,SHADE
 328,shame,1776,SHAME
 329,sharpen,251,SHARPEN (SOMETHING)
 330,shave,231,SHAVE
@@ -283,6 +311,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 336,shoulder,1482,SHOULDER
 337,sick (man),1847,SICK
 338,sing,1261,SING
+339,sit,1416,SIT
 340,six,1703,SIX
 341,skin,763,SKIN
 342,sky,1732,SKY
@@ -291,6 +320,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 345,sleep,1585,SLEEP
 346,small,1246,SMALL
 349,smell bad,1587,SMELL (STINK)
+350,smell good,376,FRAGRANT
 351,smoke,778,SMOKE (EXHAUST)
 352,snake,730,SNAKE
 353,"snore, snort",1983,SNORE
@@ -298,12 +328,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 356,spark,518,SPARK
 357,speak,1623,SPEAK
 358,spear,945,SPEAR
-359,sperm,1505,SPERM
 360,spider,843,SPIDER
 361,spit,1440,SPIT
 362,"split, crack",1437,SPLIT
+363,"spot, speckle",519,SPOT
 364,spread,38,SPREAD OUT
 365,spring,849,SPRING (OF WATER)
+366,"squeeze, milk",93,DRAW MILK
 367,stand,1442,STAND
 368,star,1430,STAR
 369,steal,713,STEAL
@@ -311,9 +342,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 371,stone,857,STONE
 372,"stranger, guest",791,STRANGER
 373,strength,202,STRENGTH
+374,stretch oneself,214,STRETCH
 375,string,362,STRING
 377,suck,1421,SUCK
-378,"suffer, bear patiently",833,ENDURE
 379,sugar cane,146,SUGAR CANE
 380,sun,1343,SUN
 381,swallow,897,SWALLOW
@@ -330,8 +361,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 392,termite,883,TERMITE
 393,testicle,797,TESTICLES
 394,thigh,800,THIGH
+395,thirst,848,THIRST
 396,thorn,124,THORN
 397,three,492,THREE
+398,tick,1527,TICK
 399,tie up,1917,TIE
 400,today,1283,TODAY
 401,tomorrow,1329,TOMORROW
@@ -353,79 +386,46 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 418,war,935,WAR
 419,water,948,WATER
 420,we,1212,WE
+421,wear,976,WEAR
+422,well,954,WELL
 423,what,1236,WHAT
 424,white,1335,WHITE
+425,white hair,,
 426,who,1235,WHO
 427,wife,1199,WIFE
 428,wind,960,WIND
 429,wing,1257,WING
 430,wipe,1454,WIPE
-431,yesterday,1174,YESTERDAY
 432,you,1215,THOU
 433,young man,76,YOUNG MAN
+18,banana,868,BANANA
+30,become large,479,GROW
+35,beer bananas,2251,BEER BANANA
+110,"diminish, grow less",1184,DIMINISH
+118,drizzle,1016,DRIZZLE
+128,excreta,47,EXCRETA
+166,get lost,423,GET LOST
+207,in front of,1883,IN FRONT OF
+211,itch,148,ITCH
+218,kneel,66,KNEEL
+276,"pass, surpass",402,SURPASS
+295,raphia palm,1181,PALM TREE
+324,set out to dry,2015,MAKE DRY
+333,shin,186,SHIN
+347,smallpox,1054,SMALLPOX
+348,smell,2124,SMELL
+354,soot,830,SOOT
+359,sperm,1505,SPERM
+376,stutter,1866,STUTTER
+431,yesterday,1174,YESTERDAY
+19,banana-tree,1795,BANANA TREE
+57,break wind,1159,FART
+107,destroy,681,DESTROY
+378,"suffer, bear patiently",833,ENDURE
 435,come from,,
 6,answer a call,,
-16,backbone,805,SPINE
-23,be lame,320,LAME
-24,be satiated,106,SATIATED
-34,beer,1639,BEER
-41,bile,1780,BILE
-44,bitter,887,BITTER
-47,blind person,457,BLIND PERSON
-49,body,1480,BODY
-59,breath,870,BREATH
-63,bull,1008,BULL
-64,bulrush millet,931,MILLET
-76,cattle,1153,CATTLE
-92,cook,1100,COOK (SOMETHING)
-99,cross river,1742,TRAVERSE
-106,defecate,676,SHIT (DEFECATE)
-113,donkey,1862,DONKEY
-118,drizzle,1016,DRIZZLE
-120,dust,2,DUST
-126,elbow,981,ELBOW
-154,"fly, to",1441,FLY (MOVE THROUGH AIR)
-177,grain,605,GRAIN
-186,headpad,,
-189,hearthstone,,
-190,heel,980,HEEL
-211,itch,148,ITCH
-212,jaw,798,JAW
-214,keep livestock,,
-223,lazy,1564,LAZY
-231,light,630,LIGHT (RADIATION)
-236,locust,810,LOCUST
-238,look at,1819,LOOK
-253,mould pottery,1166,MOULD
-256,move away,229,MOVE AWAY
-261,near,1942,NEAR
-263,new,1231,NEW
-272,ours,780,OUR
-275,palm of hand,1183,PALM OF HAND
-281,person,683,PERSON
-302,remember,707,REMEMBER
-303,resemble,1777,RESEMBLE
-306,right (hand),1019,RIGHT
-321,self,1993,SELF
-327,shadow,1388,SHADE
-333,shin,186,SHIN
-339,sit,1416,SIT
-347,smallpox,1054,SMALLPOX
-354,soot,830,SOOT
-366,"squeeze, milk",93,DRAW MILK
-376,stutter,1866,STUTTER
-395,thirst,848,THIRST
-398,tick,1527,TICK
-421,wear,976,WEAR
-422,well,954,WELL
-425,white hair,,
-434,yours,732,YOUR (SINGULAR)
-31,"become large, grow up",479,GROW
-195,hole,1667,HOLE
-300,refuse to give,,
-350,smell good,376,FRAGRANT
-363,"spot, speckle",519,SPOT
-374,stretch oneself,214,STRETCH
-35,beer bananas,2251,BEER BANANA
-348,smell,2124,SMELL
 73,carry (child),1123,PREGNANT
+177,grain,605,GRAIN
+16,backbone,805,SPINE
+41,bile,1780,BILE
+434,yours,732,YOUR (SINGULAR)
