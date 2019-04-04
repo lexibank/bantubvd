@@ -5,6 +5,7 @@ from clldutils.path import Path
 
 from pylexibank.providers import abvd
 from pylexibank.dataset import Metadata
+from pylexibank.util import pb
 
 SOURCES = {
     'bantu-1': ['maganga1992'],
@@ -23,6 +24,7 @@ SOURCES = {
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     SECTION = 'bantu'
+    id="bantubvd"
 
     def cmd_download(self, **kw):
         return
@@ -36,7 +38,7 @@ class Dataset(abvd.BVD):
         bibtexes = self.raw.read_bib()
 
         with self.cldf as ds:
-            for wl in self.iter_wordlists({}, kw['log']):
+            for wl in pb(self.iter_wordlists({}, kw['log']), desc='cldfify'):
                 citekeys = SOURCES[wl.id]
                 wl.to_cldf(
                     ds,

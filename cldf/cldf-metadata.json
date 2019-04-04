@@ -2,16 +2,16 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/TeilDautrey-2008-430",
-    "dc:identifier": "http://language.psy.auckland.ac.nz/bantu/",
-    "dc:license": [
-        "CC-BY-4.0",
-        "Creative Commons Attribution 4.0",
-        "https://creativecommons.org/licenses/by/4.0/"
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/TeilDautrey-2008-430"
     ],
+    "dc:identifier": "http://language.psy.auckland.ac.nz/bantu/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Bantu Basic Vocabulary Database",
+    "dcat:accessURL": "https://github.com/lexibank/bantubvd",
     "rdf:ID": "bantubvd",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -19,8 +19,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-179-gd46adad"
             }
         }
     ],
@@ -54,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -156,6 +156,26 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
@@ -224,7 +244,7 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
