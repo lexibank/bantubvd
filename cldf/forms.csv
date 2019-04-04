@@ -1748,7 +1748,8 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 5-55-1,1395,5,55,ʧ̑ɛ̂p,ʧ̑ɛ̂p,,,teildautrey1994;46178,,false
 5-56-1,1396,5,56,ɓék,ɓék,,,teildautrey1994;46178,,false
 5-57-1,1397,5,57,sùl,sùl,,,teildautrey1994;46178,,false
-5-58-1,1398,5,58,ɓéè/méè,ɓéè/méè,,,teildautrey1994;46178,,false
+5-58-1,1398,5,58,ɓéè/méè,ɓéè,,,teildautrey1994;46178,,false
+5-58-2,1398,5,58,ɓéè/méè,méè,,,teildautrey1994;46178,,false
 5-60-1,1400,5,60,lɔ̀nà,lɔ̀nà,,,teildautrey1994;46178,,false
 5-61-1,1399,5,61,hólôs,hólôs,,,teildautrey1994;46178,,false
 5-62-1,1401,5,62,ɔ́ŋ,ɔ́ŋ,,,teildautrey1994;46178,,false

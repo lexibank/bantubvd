@@ -23,6 +23,7 @@ SOURCES = {
 
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
+    id = 'bantubvd'
     SECTION = 'bantu'
     id="bantubvd"
 
