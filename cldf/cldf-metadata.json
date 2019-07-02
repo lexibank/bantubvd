@@ -1,12 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/TeilDautrey-2008-430"
     ],
     "dc:identifier": "http://language.psy.auckland.ac.nz/bantu/",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Bantu Basic Vocabulary Database",
     "rdf:ID": "bantubvd",
@@ -18,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }

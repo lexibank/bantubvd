@@ -15,7 +15,10 @@ Conceptlists in Concepticon:
 
 The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small project to collect a basic vocabulary database for Bantu languages that subsequently stalled.
 
+
+
 ## Statistics
+
 
 [![Build Status](https://travis-ci.org/lexibank/bantubvd.svg?branch=master)](https://travis-ci.org/lexibank/bantubvd)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -29,5 +32,6 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 ## Possible Improvements:
 
-- Entries missing sources: 492/4257 (11.56%)
 
+
+- Entries missing sources: 492/4257 (11.56%)
