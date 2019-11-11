@@ -1650,7 +1650,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 4-376-1,1270,4,376,túlùtùùʃ,túlùtùùʃ,,,mann1995,,false
 4-377-1,1271,4,377,ónk,ónk,,,mann1995,,false
 4-378-1,1272,4,378,kálìpw,kálìpw,,,mann1995,,false
-4-379-1,1273,4,379,sà  ŋkòndè,sà  ŋkòndè,,,mann1995,,false
+4-379-1,1273,4,379,sà  ŋkòndè,sà ŋkòndè,,,mann1995,,false
 4-380-1,1274,4,380,súßá,súßá,,,mann1995,,false
 4-381-1,1275,4,381,mìn,mìn,,,mann1995,,false
 4-382-1,1276,4,382,làp,làp,,,mann1995,,false
@@ -4025,7 +4025,7 @@ ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,
 10-203-1,4059,10,203,núpàtà,núpàtà,,,ngunga1997,,false
 10-204-1,4060,10,204,lúmé,lúmé,,,ngunga1997,,false
 10-205-1,4061,10,205,túnù,túnù,,,ngunga1997,,false
-10-206-1,4062,10,206,ùné(éjí),ùné(éjí),,,ngunga1997,,false
+10-206-1,4062,10,206,ùné(éjí),ùné,,,ngunga1997,,false
 10-207-1,4063,10,207,pàwùʤò,pàwùʤò,,,ngunga1997,,false
 10-208-1,4064,10,208,paambiʧila,paambiʧila,,increase (a quantity),ngunga1997,,false
 10-208-2,4065,10,208,tutuva,tutuva,,increase (number or amount).,ngunga1997,,false

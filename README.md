@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ li
 
 Available online at http://language.psy.auckland.ac.nz/bantu/
 
-Conceptlists in Concepticon:
-- [TeilDautrey-2008-430](http://concepticon.clld.org/contributions/TeilDautrey-2008-430)
 
+Conceptlists in Concepticon:
+- [TeilDautrey-2008-430](https://concepticon.clld.org/contributions/TeilDautrey-2008-430)
 ## Notes
 
 The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small project to collect a basic vocabulary database for Bantu languages that subsequently stalled.
@@ -28,6 +28,7 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 - **Varieties:** 10
 - **Concepts:** 430
 - **Lexemes:** 4,257
+- **Sources:** 10
 - **Synonymy:** 1.09
 
 ## Possible Improvements:

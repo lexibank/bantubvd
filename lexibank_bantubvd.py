@@ -22,25 +22,25 @@ class Dataset(abvd.BVD):
     id = "bantubvd"
     SECTION = "bantu"
 
-    def cmd_download(self, **kw):
+    def cmd_download(self, args):
         return
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         concept_map = {
             c.attributes["url"].unsplit().split("v=")[1]: c.concepticon_id
-            for c in self.conceptlist.concepts.values()
+            for c in self.conceptlists[0].concepts.values()
         }
         for c in self.concepts:
             concept_map[c["ID"]] = c["CONCEPTICON_ID"] or None
-        bibtexes = self.raw.read_bib()
+        bibtexes = self.raw_dir.read_bib()
 
-        with self.cldf as ds:
-            for wl in pb(self.iter_wordlists({}, kw["log"]), desc="cldfify"):
-                citekeys = SOURCES[wl.id]
-                wl.to_cldf(
-                    ds,
-                    concept_map,
-                    citekey=";".join(citekeys) if citekeys is not None else None,
-                    source=None if citekeys is None else [b for b in bibtexes if b.id in citekeys],
-                    concept_key=None,
-                )
+        for wl in pb(self.iter_wordlists({}, args.log), desc="cldfify"):
+            citekeys = SOURCES[wl.id]
+            wl.to_cldf(
+                args.writer,
+                concept_map,
+                citekey=";".join(citekeys) if citekeys is not None else None,
+                source=None if citekeys is None else [b for b in bibtexes if b.id in citekeys],
+                concept_key=None,
+            )
+

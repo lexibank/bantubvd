@@ -66,7 +66,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 74,carry child on back,465,CARRY ON BACK
 75,cat,1208,CAT
 76,cattle,1153,CATTLE
-77,"cease, finish",2115,CEASE OR FINISH
+77,"cease, finish",1928,CEASE
 78,"chair, seat",1476,CHAIR
 79,charcoal,1188,CHARCOAL
 80,chase away,30,DISPEL
@@ -270,7 +270,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 292,"put, set",998,PUT
 293,quarrel,1848,QUARREL
 294,rain,658,RAIN (PRECIPITATION)
-296,reap,1827,HARVEST CROPS
+296,reap,190,MOW
 297,recover,1978,RECOVER
 298,red,156,RED
 299,reed,659,REED
