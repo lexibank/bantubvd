@@ -1,7 +1,7 @@
 from clldutils.path import Path
 
 from pylexibank.providers import abvd
-from pylexibank.util import pb
+from pylexibank.util import progressbar
 
 SOURCES = {
     "bantu-1": ["maganga1992"],
@@ -34,7 +34,7 @@ class Dataset(abvd.BVD):
             concept_map[c["ID"]] = c["CONCEPTICON_ID"] or None
         bibtexes = self.raw_dir.read_bib()
 
-        for wl in pb(self.iter_wordlists({}, args.log), desc="cldfify"):
+        for wl in progressbar(self.iter_wordlists({}, args.log), desc="cldfify"):
             citekeys = SOURCES[wl.id]
             wl.to_cldf(
                 args.writer,
