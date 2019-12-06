@@ -9,6 +9,35 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, A, Basaa (A.40)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{teildautrey1994,
+  author = {Teil-Dautrey, Gisèle},
+  date = {1994},
+  title = {Basaa Wordlist},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+
+
+@book{46178,
+  address          = {Douala},
+  author           = {Lemb, Pierre and François de Gastines},
+  edition          = {Avec un préface par Meinrad Habga},
+  pages            = {538},
+  publisher        = {Collège Libermann},
+  title            = {Dictionnaire basaá-français},
+  year             = {1973},
+  bibtexkey        = {gastines-lemb_dictionnaire-basaa1973},
+  hhtype           = {dictionary},
+  inlg             = {French [fra]},
+  keywords         = {;waf;caf;cmr;lng;dct;bnt;a.43a;},
+  last_changed     = {2007-09-12},
+  macro_area       = {Africa},
+  src              = {eballiso2009, weball},
+  srctrickle       = {eballiso2009#15614, weball#11942},
+  subject_headings = {waf, caf, cmr, lng, dct, bnt, a.43}
+}
+	</source>
 </record>
 
 <record>

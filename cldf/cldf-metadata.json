@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bantubvd",
-            "dc:created": "v2.0.1-3-gfd7e98f"
+            "dc:created": "v3.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.3"
+            "dc:description": "3.7.0"
         },
         {
             "dc:title": "python-packages",
@@ -228,6 +228,10 @@
                     {
                         "datatype": "string",
                         "name": "notes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "source"
                     }
                 ],
                 "primaryKey": [

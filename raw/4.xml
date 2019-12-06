@@ -9,6 +9,15 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, M, Bemba (M.40)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{mann1995,
+  author = {Mann, M.},
+  date = {1995},
+  title = {Bemba Wordlist},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+	</source>
 </record>
 
 <record>

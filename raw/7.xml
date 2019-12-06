@@ -9,6 +9,33 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, K, Diriku (K.70)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@book{33386,
+  address               = {Cologne},
+  author                = {Möhlig, Wilhelm Johann Georg and Shiyaka-Mberema, Karl Peter},
+  pages                 = {459},
+  publisher             = {Köln: Rüdiger Köppe Verlag},
+  series                = {Southern African languages and dialects},
+  title                 = {A dictionary of the Rumanyo language: Rumanyo-English, English-Rumanyo, including a grammatical sketch},
+  volume                = {2},
+  year                  = {2005},
+  bibtexkey             = {mohlig-shiyaka-mberema_rumanyo-including2005},
+  class_loc             = {PL8135.4},
+  document_type         = {B},
+  fn                    = {africa\mohlig-shiyaka-mberema_rumanyo2005.pdf},
+  hhtype                = {grammar_sketch;dictionary},
+  inlg                  = {English [eng]},
+  inlg_code             = {eng},
+  isbn                  = {9783896456014},
+  keywords              = {;saf;lng;dct;grd;bnt;k.332;},
+  last_changed          = {2007-07-27},
+  macro_area            = {Africa},
+  mpi_eva_library_shelf = {PL 8135 .4 MÖH 2005},
+  src                   = {eballiso2009, hh, mpieva, weball},
+  srctrickle            = {eballiso2009#6398, hh#sd:MohligShiyaka-Mberema:Rumanyo, mpieva#Mohlig2005Adiction, weball#14365},
+  subject_headings      = {Diriku language–Dictionaries–English, English language–Dictionaries–Diriku, Diriku language–Grammar, Diriku language–Dictionaries–English – English language–Dictionaries–Diriku – Diriku language–Grammar}
+}
+	</source>
 </record>
 
 <record>

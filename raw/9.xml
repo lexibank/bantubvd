@@ -9,6 +9,15 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, S, Sotho-Tswana (S.30), Tswana</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{creissels1996,
+  author = {Creissels, Denis},
+  date = {1996},
+  title = {Tswana Wordlist},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+	</source>
 </record>
 
 <record>

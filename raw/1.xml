@@ -9,6 +9,16 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, F, Sukuma-Nyamwezi (F.20)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@misc{maganga1992,
+  author = {Maganga, Clement and Schadeberg and C, Thilo},
+  date = {1992},
+  title = {Kinyamwezi: Grammar, Texts, Vocabulary. (East African Languages and Dialects},
+  publisher = {Rüdiger Köppe},
+  address = {Köln, Germany},
+  language = {en}
+}
+	</source>
 </record>
 
 <record>

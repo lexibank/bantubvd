@@ -9,6 +9,15 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, P, Yao (P.20)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{ngunga1997,
+  author = {Ngunga, Armindo},
+  date = {1997},
+  title = {Yao Wordlist},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+	</source>
 </record>
 
 <record>
