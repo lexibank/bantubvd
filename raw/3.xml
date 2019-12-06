@@ -9,6 +9,15 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, C, Mbosi (C.30)</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{gazania1996,
+  author = {Gazania, R.and Hyman and L.},
+  date = {1996},
+  title = {Koyo Word List},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+	</source>
 </record>
 
 <record>

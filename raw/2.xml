@@ -9,6 +9,15 @@
 	<classification>Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, J, Masaba-Luyia (J.30), Luyia</classification>
 	<typedby>Gisèle Teil-Dautrey</typedby>
 	<checkedby></checkedby>
+	<source>
+@online{khisa2000,
+  author = {Khisa, W. and P., Wong and amp, Lowe J.B.},
+  date = {2000},
+  title = {Bukusu word list},
+  source = {Comparative Bantu Online Database},
+  url = {http://www.cbold.ish-lyon.cnrs.fr/}
+}
+	</source>
 </record>
 
 <record>
