@@ -59,7 +59,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 58_breast,breast,1402,BREAST
 59_breath,breath,870,BREATH
 60_bring,bring,692,BRING
-61_bringupchild,bring up child,2134,RAISE (A CHILD)
+61_bringupchild,bring up child,2134,RAISE (BRING UP)
 62_build,build,1840,BUILD
 63_bull,bull,1008,BULL
 64_bulrushmillet,bulrush millet,931,MILLET
@@ -91,7 +91,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 90_come,come,1446,COME
 91_completefinish,"complete, finish",1766,FINISH
 92_cook,cook,1100,COOK (SOMETHING)
-93_cookingpot,cooking pot,1462,POT
+93_cookingpot,cooking pot,3653,COOKING POT
 94_corpse,corpse,767,CORPSE
 95_cough,cough,879,COUGH
 96_count,count,1420,COUNT
@@ -217,7 +217,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 217_knee,knee,1371,KNEE
 218_kneel,kneel,66,KNEEL
 219_knife,knife,1352,KNIFE
-220_know,know,1410,KNOW (SOMETHING)
+220_know,know,3626,KNOW
 221_lakepool,"lake, (pool)",624,LAKE
 222_laugh,laugh,1355,LAUGH
 223_lazy,lazy,1564,LAZY

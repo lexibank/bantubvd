@@ -36,3 +36,11 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 
 - Entries missing sources: 492/4257 (11.56%)
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Simon Greenhill | @SimonGreenhill | maintainer
+
+
