@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bantubvd",
-            "dc:created": "v3.0-3-g4479bab"
+            "dc:created": "v3.0-4-g3cff5af"
         },
         {
             "rdf:type": "prov:Entity",
@@ -220,10 +220,6 @@
                     {
                         "datatype": "string",
                         "name": "typedby"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "checkedby"
                     },
                     {
                         "datatype": "string",

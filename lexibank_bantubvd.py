@@ -19,4 +19,12 @@ class Dataset(abvd.BVD):
         
         for wl in self.iter_wordlists(args.log):
             wl.to_cldf(args.writer, concepts)
+        
+        # this removes the 'checkedby' column from the languages table as the
+        # bantuBVD does not use this field, and it's therefore all empty.
+        # ..and being all empty triggers a lexibank check warning later
+        args.writer.cldf['LanguageTable'].tableSchema.columns = [
+            col for col in args.writer.cldf['LanguageTable'].tableSchema.columns
+            if col.name != 'checkedby'
+        ]
 
