@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Bantu Basic Vocabulary Database",
+    "dc:title": "CLDF dataset derived from Greenhill and Gray\u2019s \"Bantu Basic Vocabulary Database\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/bantubvd",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bantubvd",
-            "dc:created": "v3.0-4-g3cff5af"
+            "dc:created": "v3.0-7-g9dbc18f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

@@ -1,4 +1,4 @@
-# Bantu Basic Vocabulary Database
+# CLDF dataset derived from Greenhill and Gray’s "Bantu Basic Vocabulary Database" from 2015
 
 Cite the source dataset as
 
@@ -39,8 +39,8 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Simon Greenhill | @SimonGreenhill | maintainer
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
 
 
