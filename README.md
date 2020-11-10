@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Simon Greenhill and Russell Gray, 2015. Bantu Basic Vocabulary Database
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://language.psy.auckland.ac.nz/bantu/
 
@@ -39,8 +39,10 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 # Contributors
 
-Name               | GitHub user     | Description                          | Role
----                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Name               | GitHub user     | Description | Role
+---                | ---             | ---         | ---
+Simon J. Greenhill | @SimonGreenhill |             | Author
+Russell Gray       |                 |             | Author
+Christoph Rzymski  | @chrzyki        | patron      | Other
 
 

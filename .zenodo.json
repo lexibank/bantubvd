@@ -8,9 +8,17 @@
     "creators": [
         {
             "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Russell Gray"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
