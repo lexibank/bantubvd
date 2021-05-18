@@ -1,12 +1,14 @@
 from pathlib import Path
 from clldutils.misc import slug
 from pylexibank.providers import abvd
+from pylexibank import FormSpec
 
 
 class Dataset(abvd.BVD):
     dir = Path(__file__).parent
     id = "bantubvd"
     SECTION = "bantu"
+
 
     def cmd_makecldf(self, args):
         concepts = args.writer.add_concepts(
