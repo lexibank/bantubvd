@@ -208,7 +208,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 208_increase,increase,1041,INCREASE
 209_inside,inside,1606,INSIDE
 210_intestines,intestines,1991,INTESTINES
-211_itch,itch,148,ITCH
+211_itch,itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY)
 212_jaw,jaw,798,JAW
 213_jealousy,jealousy,2016,JEALOUSY
 214_keeplivestock,keep livestock,,
@@ -287,7 +287,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 290_pull,pull,1455,PULL
 291_push,push,1452,PUSH
 292_putset,"put, set",998,PUT
-293_quarrel,quarrel,1848,QUARREL
+293_quarrel,quarrel,3302,QUARREL (VERB)
 294_rain,rain,658,RAIN (PRECIPITATION)
 295_raphiapalm,raphia palm,1181,PALM TREE
 296_reap,reap,190,MOW
