@@ -16,7 +16,7 @@ def test_forms(cldf_dataset):
     #   - id 00594 = lòòrà, ròòrà
     #   - id 00751 = -jà, -jààxà
     #   - id 01398 = ɓéè/méè
-    assert len(list(cldf_dataset["FormTable"])) == 4254 + 3
+    assert len(list(cldf_dataset["FormTable"])) == 4254 + 2
 
 
 def test_parameters(cldf_dataset):
