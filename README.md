@@ -1,5 +1,7 @@
 # CLDF dataset derived from Greenhill and Gray’s "Bantu Basic Vocabulary Database" from 2015
 
+[![CLDF validation](https://github.com/lexibank/bantubvd/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bantubvd/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -26,21 +28,21 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/bantubvd.svg?branch=master)](https://travis-ci.org/lexibank/bantubvd)
+[![CLDF validation](https://github.com/lexibank/bantubvd/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bantubvd/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 88%](https://img.shields.io/badge/Source-88%25-yellowgreen.svg "Source: 88%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 10
-- **Concepts:** 430
+- **Varieties:** 10 (linked to 10 different Glottocodes)
+- **Concepts:** 430 (linked to 415 different Concepticon concept sets)
 - **Lexemes:** 4,256
 - **Sources:** 10
 - **Synonymy:** 1.09
 - **Invalid lexemes:** 0
 - **Tokens:** 18,925
-- **Segments:** 118 (0 BIPA errors, 0 CTLS sound class errors, 116 CLTS modified)
+- **Segments:** 118 (0 BIPA errors, 0 CLTS sound class errors, 116 CLTS modified)
 - **Inventory size (avg):** 45.30
 
 ## Possible Improvements:
@@ -51,12 +53,12 @@ The [Bantu Basic Vocabulary Database](https://abvd.shh.mpg.de/bantu) was a small
 
 # Contributors
 
-Name               | GitHub user     | Description | Role
----                | ---             | ---         | ---
-Simon J. Greenhill | @SimonGreenhill |             | Author
-Russell Gray       |                 |             | Author
-Christoph Rzymski  | @chrzyki        | patron      | Other
-Johann-Mattis List | @lingulist | orthography profile | Other
+Name               | GitHub user     | Description         | Role
+---                | ---             | ---                 | ---
+Simon J. Greenhill | @SimonGreenhill |                     | Author
+Russell Gray       |                 |                     | Author
+Christoph Rzymski  | @chrzyki        | patron              | Editor
+Johann-Mattis List | @lingulist      | orthography profile | Editor
 
 
 
